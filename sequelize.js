@@ -43,14 +43,18 @@ Blog.belongsTo(User);
 
 Vote.belongsTo(Thread);
 Vote.belongsTo(User);
+Thread.hasMany(Vote);
 
 Rank.belongsToMany(User, { through: RankTag, unique: false })
 User.belongsToMany(Rank, { through: RankTag, unique: false })
 
 Comment.belongsTo(Thread);
 Comment.belongsTo(User);
+User.hasMany(Comment);
+Thread.hasMany(Comment)
 
 Thread.belongsTo(User);
+User.hasMany(Thread);
 
 Badge.belongsToMany(User, { through: BadgeTag, unique: false })
 User.belongsToMany(Badge, { through: BadgeTag, unique: false })

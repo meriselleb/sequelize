@@ -35,7 +35,7 @@ const port = 3001
 app.listen(port, () => {
     console.log(`Running on http://localhost:${port}`)
 
-    sequelize.sync({ force: true })
+    sequelize.sync({ force: false })
         .then(() => {
             console.log('Database & tables created!')
         })
