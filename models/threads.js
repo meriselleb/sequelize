@@ -5,8 +5,14 @@ module.exports = (sequelize, type) => {
           primaryKey: true,
           autoIncrement: true
         },
-        title: type.STRING,
-        text: type.STRING,
+        title: {
+          type: type.STRING,
+          allowNull: false,
+        },
+        text: {
+          type: type.TEXT,
+          allowNull: false,
+        },
         // time stamps
         createdAt: type.DATE,
         updatedAt: type.DATE,

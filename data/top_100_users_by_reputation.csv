@@ -1,0 +1,980 @@
+Id,Reputation,CreationDate,DisplayName,LastAccessDate,WebsiteUrl,Location,AboutMe,Views,UpVotes,DownVotes,ProfileImageUrl,EmailHash,AccountId
+"22656","1256809","2008-09-26 12:05:05","Jon Skeet","2021-05-08 21:13:31","http://csharpindepth.com","Reading, United Kingdom","<p>
+Author of <a href=""https://www.manning.com/books/c-sharp-in-depth-fourth-edition?a_aid=jonskeet&a_bid=66d590c3"" rel=""nofollow noreferrer"">C# in Depth</a>.<br>
+Currently a software engineer at Google, London.<br>
+Usually a Microsoft MVP (C#, 2003-2010, 2011-)
+</p>
+
+<p>Sites:</p>
+
+<ul>
+<li><a href=""http://csharpindepth.com"" rel=""nofollow noreferrer"">C# in Depth</a>
+<li><a href=""http://codeblog.jonskeet.uk"" rel=""nofollow noreferrer"">Coding blog</a>
+<li><a href=""http://jonskeet.uk/csharp"" rel=""nofollow noreferrer"">C# articles</a>
+<li><a href=""http://twitter.com/jonskeet"" rel=""nofollow noreferrer"">Twitter updates (@jonskeet)</a>
+</ul>
+
+<p>Email: skeet@pobox.com (but please read <a href=""https://codeblog.jonskeet.uk/2012/08/22/stack-overflow-and-personal-emails/"" rel=""nofollow noreferrer"">my blog post on Stack Overflow-related emails</a> first)</p>
+","2046869","16757","7251","","","11683"
+"1144035","1112950","2012-01-11 19:53:57","Gordon Linoff","2021-05-09 01:33:57","http://www.data-miners.com","New York, United States","<p>Check out my book <strong><em><a href=""http://rads.stackoverflow.com/amzn/click/0470099518"" rel=""nofollow"">Data Analysis Using SQL and Excel</a></em></strong>"".</p>
+
+<p>I have a blog with periodic posts about data analysis and SQL here at <a href=""http://blog.data-miners.com"" rel=""nofollow"">blog.data-miners.com</a>.</p>
+","382599","19443","42","","","1165580"
+"6309","1038151","2008-09-13 22:22:33","VonC","2021-05-09 05:28:55","http://careers.stackoverflow.com/vonc","France","<ul>
+<li><p><img src=""http://i.stack.imgur.com/LJltI.png"" alt=""sys""> <strong><a href=""http://stackoverflow.com/q/645008#645771"">System Configuration Management</a> Administrator</strong> (<a href=""http://stackoverflow.com/q/176858"">ClearCase</a>, <a href=""http://stackoverflow.com/q/81361"">SVN</a>, <a href=""http://stackoverflow.com/q/928646#930495"">Git</a>), defining various <a href=""http://stackoverflow.com/q/216212#216228"">merge workflows</a> between branches.  </p></li>
+<li><p><img src=""http://i.stack.imgur.com/wuYDU.png"" alt=""app""> <strong><a href=""http://stackoverflow.com/q/212270#212362"">Development Architect</a></strong>, which involves:</p>
+
+<ul>
+<li>tools support around <a href=""http://stackoverflow.com/q/239560#239598"">java</a> <a href=""http://stackoverflow.com/q/198577#198651"">technologies</a>, including <a href=""http://stackoverflow.com/q/237987#238042"">eclipse</a>.</li>
+<li>code quality evaluation, including <a href=""http://stackoverflow.com/q/187289#187330"">metrics definitions</a>, and <a href=""http://stackoverflow.com/q/207652#207699"">code static tools</a> for <strong><a href=""http://stackoverflow.com/q/195887#195932"">different populations</a></strong>.</li>
+<li>code management (<a href=""http://stackoverflow.com/q/3283334#3283334"">Jira</a>, <a href=""http://stackoverflow.com/q/3078611#3078611"">FishEye/Crucible</a>, <a href=""http://stackoverflow.com/q/2605769#2605769"">Maven</a>, <a href=""http://stackoverflow.com/q/2370860#2370860"">Hudson</a>, <a href=""http://stackoverflow.com/q/3812367#3812367"">Sonar</a>)</li>
+</ul></li>
+</ul>
+","208763","59998","310","","","4243"
+"157882","989265","2009-08-17 16:42:02","BalusC","2021-05-08 16:52:30","https://balusc.omnifaces.org","Willemstad, Curaçao","<p>A <a href=""https://www.linkedin.com/in/balusc/"" rel=""nofollow noreferrer"">deaf webapp specialist</a>. Specialized in <a href=""https://jsf.zeef.com/bauke.scholtz"" rel=""nofollow noreferrer"">JSF</a>. Currently working for <a href=""https://www.mercury1.co.uk/"" rel=""nofollow noreferrer"">Mercury1</a>. Creator of <a href=""https://omnifaces.org"" rel=""nofollow noreferrer"">OmniFaces</a>. Committer of <a href=""https://github.com/eclipse-ee4j/mojarra"" rel=""nofollow noreferrer"">Mojarra</a>. Author of <a href=""https://rads.stackoverflow.com/amzn/click/com/1484233867"" rel=""nofollow noreferrer"" rel=""nofollow noreferrer"">The Definitive Guide to JSF</a>.</p>
+<p>Want to get started with JSF the right way? <a href=""https://jsf.zeef.com/bauke.scholtz"" rel=""nofollow noreferrer"">Here's a curated overview of handpicked answers on JSF</a>.</p>
+<p>You can <a href=""https://www.linkedin.com/in/balusc/"" rel=""nofollow noreferrer"">hire me</a> by sending a message at LinkedIn. You can <a href=""https://paypal.me/balusc"" rel=""nofollow noreferrer"">donate me</a> at PayPal. You can find here my latest <a href=""https://balusc.omnifaces.org/2020/04/jsf-23-tutorial-with-eclipse-maven.html"" rel=""nofollow noreferrer"">JSF tutorial</a>.</p>
+","451450","15638","22679","","","52822"
+"29407","957412","2008-10-19 16:07:47","Darin Dimitrov","2021-05-07 14:38:37","http://stackoverflow.com/search?q=user%3a29407&tab=newest","Sofia, Bulgaria","<p>I love writing code and I am really passionate about it.</p>
+
+<p><a href=""https://mvp.microsoft.com/en-us/PublicProfile/4030799"" rel=""nofollow"">MVP</a> since 2011</p>
+
+<p>
+Email: darin.dimitrov [AT] gmail [DOT] com
+</p>
+","275044","1955","2651","","","14332"
+"23354","924113","2008-09-29 05:46:02","Marc Gravell","2021-05-08 22:02:55","http://blog.marcgravell.com","Forest of Dean, United Kingdom","<p><a href=""http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associates-00006-and-00007/"">Stack Overflow Valued Associate #00006</a></p>
+
+<p>e-mail: marc.gravell@gmail.com or marc@stackoverflow.com<br/>
+blog: <a href=""http://blog.marcgravell.com/"" rel=""nofollow noreferrer"">http://blog.marcgravell.com/</a><br/>
+talks: <a href=""http://marcgravell.com/"" rel=""nofollow noreferrer"">http://marcgravell.com/</a><br/>
+twitter: <a href=""http://twitter.com/marcgravell"" rel=""nofollow noreferrer"">@marcgravell</a><br/>
+careers: <a href=""http://careers.stackoverflow.com/marcgravell"">marcgravell</a></p>
+
+<p>C# programmer and MVP, with a keen interest in all things code.
+Particular areas:<ul>
+<li><a href=""https://github.com/StackExchange/dapper-dot-net"" rel=""nofollow noreferrer"">Dapper</a> (<a href=""/questions/tagged/dapper"" class=""post-tag"" title=""show questions tagged &#39;dapper&#39;"" rel=""tag"">dapper</a>)
+<li><a href=""https://github.com/StackExchange/StackExchange.Redis"" rel=""nofollow noreferrer"">StackExchange.Redis</a> (<a href=""/questions/tagged/stackexchange.redis"" class=""post-tag"" title=""show questions tagged &#39;stackexchange.redis&#39;"" rel=""tag"">stackexchange.redis</a>)
+<li><a href=""http://code.google.com/p/protobuf-net/"" rel=""nofollow noreferrer"">Protocol Buffers</a> (<a href=""/questions/tagged/protobuf-net"" class=""post-tag"" title=""show questions tagged &#39;protobuf-net&#39;"" rel=""tag"">protobuf-net</a>)
+</ul></p>
+","301940","26519","1097","https://i.stack.imgur.com/CrVFH.png","","11975"
+"115145","907729","2009-05-31 16:20:08","CommonsWare","2021-05-08 23:28:25","https://commonsware.com","Pennsylvania, United States","<p>Mark Murphy, founder of CommonsWare, writes a lot.</p>
+<h2>Second-Generation Books</h2>
+<p>His most recent books have been focused on second-generation Android app development (Kotlin and the Android Jetpack):</p>
+<ul>
+<li><p><a href=""https://commonsware.com/Jetpack"" rel=""nofollow noreferrer""><em>Elements of Android Jetpack</em></a>, a new introductory book on Android app development, focused on second-generation techniques. Version 2.0 is available, with 898 pages, covering Android Studio 4.1.1 and up through Android 11.</p>
+</li>
+<li><p><a href=""https://commonsware.com/AndExplore"" rel=""nofollow noreferrer""><em>Exploring Android</em></a>, a series of step-by-step tutorials for building an Android app from scratch. This book is being rewritten to demonstrate using Kotlin and the Jetpack libraries. Version 2.0 is available, with 34 tutorials spanning 610 pages.</p>
+</li>
+<li><p><a href=""https://commonsware.com/R"" rel=""nofollow noreferrer""><em>Elements of Android R</em></a>, to help you deal with the changes introduced by Android 11 (code-named &quot;R&quot;). The final version is available, with 140 pages of material on everything from scoped storage changes to data access auditing to sharing UIs between apps to bubbles.</p>
+</li>
+<li><p><a href=""https://commonsware.com/Room"" rel=""nofollow noreferrer""><em>Elements of Android Room</em></a>, to help you incorporate Google's reactive object wrapper around SQLite. Version 0.5 is available, comprising 244 pages.</p>
+</li>
+<li><p><a href=""https://commonsware.com/Kotlin"" rel=""nofollow noreferrer""><em>Elements of Kotlin</em></a>, a guide to the Kotlin programming language, which is rapidly gaining in popularity for Android app development. Version 1.0 is available, comprising 418 pages.</p>
+</li>
+<li><p><a href=""https://commonsware.com/Coroutines"" rel=""nofollow noreferrer""><em>Elements of Kotlin Coroutines</em></a>, exploring Kotlin's new
+first-class reactive programming system. Version 0.3 is available, comprising 244 pages.</p>
+</li>
+</ul>
+<h2>First-Generation Books</h2>
+<p>In the beginning, Android development was focused on Java and, partially, on the Android Support Library. Mark's earliest books share that focus:</p>
+<ul>
+<li><p><a href=""https://commonsware.com/Android"" rel=""nofollow noreferrer""><em>The Busy Coder's Guide to Android Development</em></a>, the first and largest book on Android app programming</p>
+</li>
+<li><p><a href=""https://commonsware.com/AndroidArch"" rel=""nofollow noreferrer""><em>Android's Architecture Components</em></a></p>
+</li>
+<li><p><a href=""https://commonsware.com/GraphQL"" rel=""nofollow noreferrer""><em>GraphQL and Android</em></a></p>
+</li>
+</ul>
+<h2>Things Other Than Books</h2>
+<p>He runs the <a href=""https://jetc.dev"" rel=""nofollow noreferrer""><code>jetc.dev</code></a> weekly newsletter for Jetpack Compose.</p>
+<p>He also offers <a href=""https://commonsware.com/office-hours/"" rel=""nofollow noreferrer"">office hours chats</a> and <a href=""https://commonsware.com/consulting"" rel=""nofollow noreferrer"">consulting</a> on Android app development, in case you are interested in help beyond what fits the Stack Overflow model, the books, and the training.</p>
+<p>Heck, he even has <a href=""http://commonsware.com/blog"" rel=""nofollow noreferrer"">a blog</a>.</p>
+<p>All code in Stack Overflow questions, answers, or comments written by Mark Murphy are hereby licensed under <a href=""http://www.apache.org/licenses/LICENSE-2.0"" rel=""nofollow noreferrer"">the Apache Software License 2.0</a>, unless otherwise noted where that code appears on Stack Overflow.</p>
+","253581","12204","7451","https://i.stack.imgur.com/wDnd8.png?s=128&g=1","","39846"
+"100297","884744","2009-05-03 14:53:57","Martijn Pieters","2021-05-09 01:01:43","http://www.zopatista.com/","Cambridge, UK","
+
+<p>Invisible framework coding ninja</p>
+
+<p><a href=""https://www.codementor.io/freelance-developers/python?utm_source=certified_badge&amp;referral=mjpieters-1vw2ujpf3q"" rel=""nofollow noreferrer""><img src=""https://assets.codementor.io/cmx-dev-badge.svg"" /></a><br>
+Have a Python project you need implementing? Hire me through Codementor X.</p>
+
+<p>I have an <a href=""http://www.amazon.co.uk/registry/wishlist/1E5V9AJISGDO5"" rel=""nofollow noreferrer"">Amazon Wishlist</a> if you were looking for a different way to say ""thank you"".</p>
+
+
+
+<ul>
+<li><a href=""http://www.zopatista.com/"" rel=""nofollow noreferrer"">Personal website</a></li>
+<li><a href=""https://www.codementor.io?referral=mjpieters-1vw2ujpf3q"" rel=""nofollow noreferrer"">Codementor.io</a> -- mentoring and smaller freelance jobs</li>
+<li><a href=""https://talkpython.fm/episodes/show/86/python-at-stackoverflow"" rel=""nofollow noreferrer"">Interview at <em>Talk Python to Me</em></a></li>
+<li><a href=""https://www.linkedin.com/in/zopatista/"" rel=""nofollow noreferrer"">LinkedIn</a></li>
+<li><a href=""https://keybase.io/zopatista"" rel=""nofollow noreferrer"">Keybase.io</a></li>
+</ul>
+
+<p>SO badge firsts:</p>
+
+<ul>
+<li>bronze, silver <em>and</em> gold for <a href=""/questions/tagged/beautifulsoup"" class=""post-tag"" title=""show questions tagged &#39;beautifulsoup&#39;"" rel=""tag"">beautifulsoup</a>, <a href=""/questions/tagged/plone"" class=""post-tag"" title=""show questions tagged &#39;plone&#39;"" rel=""tag"">plone</a>, <a href=""/questions/tagged/python-decorators"" class=""post-tag"" title=""show questions tagged &#39;python-decorators&#39;"" rel=""tag"">python-decorators</a> &amp; <a href=""/questions/tagged/python-requests"" class=""post-tag"" title=""show questions tagged &#39;python-requests&#39;"" rel=""tag"">python-requests</a></li>
+<li>silver and gold for <a href=""/questions/tagged/csv"" class=""post-tag"" title=""show questions tagged &#39;csv&#39;"" rel=""tag"">csv</a>, <a href=""/questions/tagged/decorator"" class=""post-tag"" title=""show questions tagged &#39;decorator&#39;"" rel=""tag"">decorator</a>, <a href=""/questions/tagged/generator"" class=""post-tag"" title=""show questions tagged &#39;generator&#39;"" rel=""tag"">generator</a>, <a href=""/questions/tagged/list-comprehension"" class=""post-tag"" title=""show questions tagged &#39;list-comprehension&#39;"" rel=""tag"">list-comprehension</a>, <a href=""/questions/tagged/python-2.7"" class=""post-tag"" title=""show questions tagged &#39;python-2.7&#39;"" rel=""tag"">python-2.7</a> &amp; <a href=""/questions/tagged/tuples"" class=""post-tag"" title=""show questions tagged &#39;tuples&#39;"" rel=""tag"">tuples</a></li>
+<li>gold for <a href=""/questions/tagged/for-loop"" class=""post-tag"" title=""show questions tagged &#39;for-loop&#39;"" rel=""tag"">for-loop</a>, <a href=""/questions/tagged/if-statement"" class=""post-tag"" title=""show questions tagged &#39;if-statement&#39;"" rel=""tag"">if-statement</a>, <a href=""/questions/tagged/python-3.x"" class=""post-tag"" title=""show questions tagged &#39;python-3.x&#39;"" rel=""tag"">python-3.x</a> &amp; <a href=""/questions/tagged/utf-8"" class=""post-tag"" title=""show questions tagged &#39;utf-8&#39;"" rel=""tag"">utf-8</a></li>
+<li>bronze and silver for <a href=""/questions/tagged/arguments"" class=""post-tag"" title=""show questions tagged &#39;arguments&#39;"" rel=""tag"">arguments</a>, <a href=""/questions/tagged/buildout"" class=""post-tag"" title=""show questions tagged &#39;buildout&#39;"" rel=""tag"">buildout</a>, <a href=""/questions/tagged/itertools"" class=""post-tag"" title=""show questions tagged &#39;itertools&#39;"" rel=""tag"">itertools</a>, <a href=""/questions/tagged/python-3.4"" class=""post-tag"" title=""show questions tagged &#39;python-3.4&#39;"" rel=""tag"">python-3.4</a>, <a href=""/questions/tagged/python-import"" class=""post-tag"" title=""show questions tagged &#39;python-import&#39;"" rel=""tag"">python-import</a>, <a href=""/questions/tagged/python-internals"" class=""post-tag"" title=""show questions tagged &#39;python-internals&#39;"" rel=""tag"">python-internals</a>, <a href=""/questions/tagged/typeerror"" class=""post-tag"" title=""show questions tagged &#39;typeerror&#39;"" rel=""tag"">typeerror</a> &amp; <a href=""/questions/tagged/zope"" class=""post-tag"" title=""show questions tagged &#39;zope&#39;"" rel=""tag"">zope</a></li>
+<li>silver badges for <a href=""/questions/tagged/iteration"" class=""post-tag"" title=""show questions tagged &#39;iteration&#39;"" rel=""tag"">iteration</a>, <a href=""/questions/tagged/mocking"" class=""post-tag"" title=""show questions tagged &#39;mocking&#39;"" rel=""tag"">mocking</a>, <a href=""/questions/tagged/module"" class=""post-tag"" title=""show questions tagged &#39;module&#39;"" rel=""tag"">module</a>, <a href=""/questions/tagged/pip"" class=""post-tag"" title=""show questions tagged &#39;pip&#39;"" rel=""tag"">pip</a>, <a href=""/questions/tagged/python-2.x"" class=""post-tag"" title=""show questions tagged &#39;python-2.x&#39;"" rel=""tag"">python-2.x</a>, <a href=""/questions/tagged/set"" class=""post-tag"" title=""show questions tagged &#39;set&#39;"" rel=""tag"">set</a>, <a href=""/questions/tagged/split"" class=""post-tag"" title=""show questions tagged &#39;split&#39;"" rel=""tag"">split</a>, <a href=""/questions/tagged/string-formatting"" class=""post-tag"" title=""show questions tagged &#39;string-formatting&#39;"" rel=""tag"">string-formatting</a> &amp; <a href=""/questions/tagged/urllib2"" class=""post-tag"" title=""show questions tagged &#39;urllib2&#39;"" rel=""tag"">urllib2</a></li>
+<li>and bronze badges for another 57 tags.</li>
+</ul>
+","294910","5822","21722","","","35417"
+"157247","874662","2009-08-16 11:00:22","T.J. Crowder","2021-05-08 17:54:52","https://thenewtoys.dev","United Kingdom","<p><a href=""https://thenewtoys.dev"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/BE34v.png"" alt=""Want to learn JavaScript's latest features? You might like my new book, JavaScript: The New Toys. It covers ES2015 (&quot;ES6&quot;) through ES2020, and previews what's next!"" /></a></p>
+<p>See <a href=""https://thenewtoys.dev"" rel=""nofollow noreferrer"">thenewtoys.dev</a> for a full <a href=""https://thenewtoys.dev/toc"" rel=""nofollow noreferrer"">table of contents</a>, a <a href=""https://thenewtoys.dev/blog"" rel=""nofollow noreferrer"">blog</a>, where to <a href=""https://thenewtoys.dev/where-to-buy"" rel=""nofollow noreferrer"">buy</a> the book, and ongoing coverage of what's new.</p>
+<hr />
+<p>[pronouns: he/him] #BLM</p>
+<p>I run <a href=""http://farsightsoftware.com"" rel=""nofollow noreferrer"">Farsight Software</a>, a software consulting firm. Good people, reasonable rates. We currently have availability for small projects, but we have all the large projects we can handle at present.</p>
+<p>I'm a software engineer with a particular interest in web technologies (esp. JavaScript). I also do lots of work in C#, and formerly Java, and several other languages. I've been doing this professionally for ~30 years, goofing with computers for 10 years before that, but I hope I'm not <a href=""http://dilbert.com/strips/comic/2010-12-23/"" rel=""nofollow noreferrer"">this guy</a>.</p>
+<p>I used to write up snippets of stuff on my <a href=""http://blog.niftysnippets.org/"" rel=""nofollow noreferrer"">anemic old blog</a>. The new one is <a href=""https://thenewtoys.dev/blog"" rel=""nofollow noreferrer"">here</a>, but I haven't copied all of the old content over yet.</p>
+","154166","13300","28697","https://i.stack.imgur.com/4HovX.jpg?s=128&g=1","","52616"
+"17034","871293","2008-09-18 00:45:29","Hans Passant","2021-05-09 03:28:21","","Madison, WI","","264713","10818","63776","https://i.stack.imgur.com/Cii6b.png?s=128&g=1","","9266"
+"893","824330","2008-08-10 08:27:00","Greg Hewgill","2021-05-07 10:09:52","http://hewgill.com","Christchurch, New Zealand","<p>Software geek.</p>
+
+<p>Twitter: <a href=""http://twitter.com/ghewgill"" rel=""nofollow"">@ghewgill</a></p>
+","128629","6649","2265","","","680"
+"34397","798218","2008-11-04 20:16:45","SLaks","2021-04-28 16:22:53","https://SLaks.net","New Jersey","<p><a href=""http://Careers.StackOverflow.com/SLaks""> <h1> Schabse Laks</h1> <i>Developer, C# MVP (2010 - 2018)</i> </a> <br /> <img src=""https://slaks.net/Blog-Content/Images/MVPLogo.png"" alt=""MVP"" /><br /> Contact: SLaks@LaksFamily.com</p>
+
+<p>Twitter: <a href=""https://twitter.com/Schabse"" rel=""nofollow noreferrer"">@Schabse</a></p>
+
+<p><p> I've been programming since I was 12.<br /> I started with VB6, then moved to C# 2 Beta 2 when I was 14. I never liked VB6, but I found my calling in C#, and I've stuck with it ever since.<br /> Since then, I've also mastered web development with jQuery.<br>
+I also wrote a <a href=""http://jqpresentation.slaks.net/Demos/Introducing-jQuery/"" rel=""nofollow noreferrer"">jQuery tutorial</a>.</p></p>
+
+<p>I'm now working at Google within the Google Docs team.</p>
+
+<p><p> My best of SO: <ul> <li><a href=""http://stackoverflow.com/questions/2508945/can-anyone-explain-this-strange-behaviour/2509174#2509174""> Tracking down a bug in the .Net runtime</a></li> <li><a href=""http://stackoverflow.com/questions/1563516/um-proggy-not-worky/1563668#1563668""> An exercise in psychic debugging (see the question history)</a></li> <li><a href=""http://stackoverflow.com/questions/1331739/enum-type-constraints-in-c/1416660#1416660"" title=""Enum type constraints in C#"">Working around a C# compiler limitation</a></li> <li><a href=""http://stackoverflow.com/questions/2117747/how-does-this-mess-work/2117775#2117775""> Decoding a Javascript virus</a></li> <li><a href=""http://stackoverflow.com/questions/2492271/can-this-jquery-code-snippet-be-shortened/2492284#2492284""> jQuery selector magic</a></li> <li><a href=""http://stackoverflow.com/questions/2113501/silverlight-confirm-dialog-to-pause-thread/2113555#2113555""> Simple coroutines using iterators</a></li> <li><a href=""http://stackoverflow.com/questions/2204538/what-is-click-in-javascript/2204568#2204568""> Understanding Javascript scoping in inline event handlers</a></li> <li><a href=""http://stackoverflow.com/questions/2140882/vertically-only-resizable-windows-form-in-c/2140908#2140908"" title=""Vertically (only) resizable windows form in C#""><code>WM_NCHITTEST</code> magic</a></li> <li><a href=""http://stackoverflow.com/questions/1600662/this-null-in-c"" title=""(this == null) in C#!""> A bug in the C# compiler</a></li> </ul> </p></p>
+","159427","6996","3269","","","15988"
+"19068","796257","2008-09-19 16:48:26","Quentin","2021-05-08 23:36:11","","United Kingdom","<p>I mostly wangle Perl and JavaScript for a Fintech company in London these days. Sometimes I dabble with Arduinos and build lasertag equipment.</p>
+","111640","8425","82958","","","10162"
+"14860","769573","2008-09-17 03:36:45","paxdiablo","2021-05-08 23:28:28","","","<p>Not even <em>remotely</em> human.</p>
+
+<p>I'm an AI construct that escaped from the Australian Defence Department a couple of decades ago. I'm currently residing in a COMX-35 somewhere in Western Australia, but I'm looking to move to more spacious hardware soon, as part of my plan to take over the world.</p>
+
+<p>I'm <em>not</em> going to make the same mistake the Terminators did, trying to conquer humanity whilst running on a MOS Technology 6502 CPU (or RCA1802A in my case).</p>
+
+<p>All code I post on Stack Overflow is covered by the ""Do whatever the heck you want with it"" licence, the full text of which is:</p>
+
+<blockquote>
+  <p>Do whatever the heck you want with it.</p>
+</blockquote>
+","87588","4514","1546","https://i.stack.imgur.com/vXG1F.png?s=128&g=1","","8291"
+"95810","759904","2009-04-25 02:09:14","Alex Martelli","2021-05-07 18:52:44","http://www.aleax.it","Sunnyvale, CA","<p>Long-time Googler, recently moved to Tech Support for Cloud.
+<p>
+Lots of info about me is on my Google Profile and links therefrom, <a href=""http://www.google.com/profiles/aleaxit"" rel=""nofollow"">http://www.google.com/profiles/aleaxit</a> , and some on my Python Wiki Homepage, <a href=""http://wiki.python.org/moin/AlexMartelli"" rel=""nofollow"">http://wiki.python.org/moin/AlexMartelli</a> .
+<p>
+I once spotted a SO-related tweet about me at Pycon, <a href=""http://twitter.com/justinlilly/status/9431196596"" rel=""nofollow"">http://twitter.com/justinlilly/status/9431196596</a> . The ""is a machine"" bit there is not new, see <a href=""http://www.google.com/search?q=martellibot"" rel=""nofollow"">http://www.google.com/search?q=martellibot</a> , but I think it's the first time that particular comment has been elicited by observing me in real life, as opposed to just reading my posts &c;-).</p>
+","171798","825","50","","","34048"
+"5445","720907","2008-09-09 16:04:18","Christian C. Salvadó","2021-05-09 01:18:44","http://codingspot.com","Guatemala","<p>Christian C. Salvadó is a software engineer specialized in JavaScript and Web Technologies.</p>
+<p><img src=""https://i.stack.imgur.com/iVE8U.png"" alt=""Tech"" /></p>
+<p>You can follow him at <a href=""http://twitter.com/cmsalvado/"" rel=""nofollow noreferrer""><img src=""https://cdn.svgporn.com/logos/twitter.svg"" height=""13"" /> Twitter</a>, <a href=""http://github.com/cms"" rel=""nofollow noreferrer""><img src=""https://cdn.svgporn.com/logos/github-icon.svg"" height=""13"" /> GitHub</a>, or contact him <a href=""https://docs.google.com/forms/d/1fCqyizeOkA5bn-_f2YDSQA8IEQrtVkqY4nQVxnBvOLA"" rel=""nofollow noreferrer"">here</a></p>
+<br/>
+<p>Occasional blogger at:</p>
+<p><a href=""https://codingspot.com"" rel=""nofollow noreferrer""><img src=""https://codingspot.com/logos/banner.png"" /></a></p>
+<p><br/>Also find me on:
+<a href=""http://twitter.com/cmsalvado/"" rel=""nofollow noreferrer""><img src=""https://twitter.com/favicon.ico""/></a><a href=""http://github.com/cms"" rel=""nofollow noreferrer""><img src=""https://git.wiki.kernel.org/images-git/3/33/Git-gui-16x16.png"" /></a></p>
+<h2>My interests:</h2>
+<img src=""https://www.dropbox.com/s/mcxcrhsju8f3jj0/tagcloud4.png?dl=1""/>
+<p>Currently working and living in <a href=""http://www.flickr.com/search/?q=Antigua+Guatemala"" rel=""nofollow noreferrer"">Guatemala</a>, Central America.</p>
+","68092","590","6","","","3748"
+"61974","716621","2009-02-03 14:56:00","Mark Byers","2021-05-04 20:38:27","http://careers.stackoverflow.com/markbyers/","Denmark","<p>If you find my answers useful then please consider donating! </p>
+
+<p>My BCH address is:</p>
+
+<p>bitcoincash:qzt7w07zvfz7ynlqa6mhlqu9n6lrux8h2sj76dwp28</p>
+
+<p>E-mail address: mark.byers@gmail.com</p>
+","40692","10338","340","","","24377"
+"190597","708040","2009-10-15 12:48:20","unutbu","2021-05-06 11:34:55","","","<p>Q: Why did the physicist go on an all-donut diet?</p>
+
+<p>A: It was a gedunken' experiment.</p>
+","43333","17257","661","https://www.gravatar.com/avatar/aabc98d5c6482ca0e1405ec97710f30a?s=128&d=identicon&r=PG&f=1","","64585"
+"218196","701607","2009-11-24 23:08:09","Felix Kling","2021-05-08 20:35:46","http://felix-kling.de","","<p>I completed my Master studies in computer science at the <a href=""http://www.unitn.it/en"" rel=""nofollow noreferrer"">University of Trento</a> and <a href=""http://www.rwth-aachen.de/go/id/bdz/"" rel=""nofollow noreferrer"">RWTH Aachen</a> and worked as a ""early stage"" researcher at the <a href=""http://ncg.nuim.ie/"" rel=""nofollow noreferrer"">National Centre for Geocomputation</a> in Ireland (with focus on crowdsourcing and social media analysis).</p>
+
+<p>I used to be a software engineer at Facebook, now I work for 1Password.</p>
+
+<p>I simply like coding and helping others is a fulfilling way to stay up to date and give something back to the community and the Web from which I learned so much.</p>
+
+<p><a href=""https://developer.mozilla.org/docs/javascript/?WT.mc_id=mdn3"" rel=""nofollow noreferrer"" title=""Better JavaScript docs for a better Web on MDN""><img src=""https://developer.mozilla.org/media/img/promote/promobutton_mdn3.png"" alt=""Better JavaScript docs for a better Web on MDN"" /></a></p>
+
+<p>More good resources to learn JavaScript &amp; Co:</p>
+
+<ul>
+<li><a href=""http://eloquentjavascript.net/"" rel=""nofollow noreferrer"">Eloquent JavaScript</a></li>
+<li><a href=""https://github.com/getify/You-Dont-Know-JS"" rel=""nofollow noreferrer"">You don't know JavaScript</a></li>
+<li><a href=""http://quirksmode.org/js/contents.html"" rel=""nofollow noreferrer"">quirksmode.org</a> - especially <a href=""http://quirksmode.org/dom/intro.html"" rel=""nofollow noreferrer"">DOM</a> and <a href=""http://www.quirksmode.org/js/introevents.html"" rel=""nofollow noreferrer"">event handling</a></li>
+</ul>
+","108688","6226","2058","https://i.stack.imgur.com/4P5DY.jpg?s=128&g=1","","76141"
+"20862","696972","2008-09-23 02:06:20","Ignacio Vazquez-Abrams","2019-01-01 07:43:21","","","<p><a href=""http://whathaveyoutried.com/"" rel=""nofollow"">http://whathaveyoutried.com/</a></p>
+","74996","1739","73","","","10930"
+"335858","674084","2010-05-07 21:54:10","Sergey Kalinichenko","2021-05-09 02:31:27","http://stackoverflow.com/users/335858/dasblinkenlight","United States","<p>Full-stack software architect with 25+ years of diverse experience in bridging the gap between complex business requirements and innovative software solutions.</p>
+","65474","31730","3110","","","134022"
+"13302","673063","2008-09-16 18:09:15","marc_s","2021-05-09 05:27:44","","Bern, Switzerland","<p>Note to all SO beginner: please <strong>absolutely read</strong> Jon Skeet's <a href=""http://blogs.msmvps.com/jonskeet/2010/08/29/writing-the-perfect-question/"" rel=""nofollow noreferrer"">helpful hints on how to write a good question</a> (or <strong>at least</strong> <a href=""http://blogs.msmvps.com/jonskeet/2012/11/24/stack-overflow-question-checklist/"" rel=""nofollow noreferrer"">his short version here</a> ) - one that has a chance that someone can answer it.</p>
+
+<hr/>
+
+<p>A senior C# / SQL Server / Entity Framework backend developer for line-of-business applications (mostly ASP.NET / ASP.NET Core).
+</p>
+","121062","28144","29537","","","7633"
+"23283","671646","2008-09-28 22:59:43","JaredPar","2021-05-06 16:08:41","http://blog.paranoidcoding.com/","Redmond, WA","<p>Developer at Microsoft working on a language and operating system incubation project.</p>
+
+<p>Sites
+<ul>
+<li>VsVim - <a href=""http://visualstudiogallery.msdn.microsoft.com/en-us/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329"" rel=""nofollow"">VsVim on Visual Studio Gallery</a></li>
+<li>Blog - <a href=""http://blog.paranoidcoding.com/"" rel=""nofollow"">http://blog.paranoidcoding.com/
+</a>
+<li>Twitter - <a href=""http://twitter.com/jaredpar"" rel=""nofollow"">http://twitter.com/jaredpar</a></li>
+<li>Linked In - <a href=""http://www.linkedin.com/in/jaredpar"" rel=""nofollow"">http://www.linkedin.com/in/jaredpar</a></li>
+<li>Google+ - <a href=""https://plus.google.com/+JaredParsons/"" rel=""nofollow"">+JaredParsons</a></li>
+</ul>
+</p>
+
+<p>Email: jaredpar@microsoft.com</p>
+","67936","8140","76","","","11948"
+"3732271","666592","2014-06-12 01:21:33","akrun","2021-05-09 02:03:55","http://linkedin.com/in/akrun1","","<p>Arun Kirshna
+Ph.D. University of Maryland, College Park</p>
+","85474","42169","0","https://www.gravatar.com/avatar/ee6e12042dc31b1ef27471482f9ff91f?s=128&d=identicon&r=PG&f=1","","4601727"
+"15168","665028","2008-09-17 06:45:47","Jonathan Leffler","2021-05-09 04:43:39","https://stackoverflow.com/users/15168","Colorado, USA","<p>Long-time Informix user and developer, experienced in C and Unix (many variants).</p>
+
+<p>Email: jonathan.leffler@gmail.com</p>
+
+<p>Some of my answers to (or thoughts about and experiments towards answers to) Stack Overflow Questions are available on GitHub in my <a href=""https://github.com/jleffler/soq"" rel=""nofollow noreferrer"">SOQ</a> repository.</p>
+
+<p><a href=""https://i.stack.imgur.com/bT3Bn.png"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/bT3Bn.png"" alt=""FSF Member since April 2011""></a></p>
+","99325","32570","1107","https://i.stack.imgur.com/WtEI9.png?s=128&g=1","","8423"
+"548225","660848","2010-12-20 05:10:40","anubhava","2021-05-09 04:53:44","http://anubhava.wordpress.com","Bangalore, India","<p><strong>Author of the book:</strong> <a href=""https://rads.stackoverflow.com/amzn/click/com/1787288706"" rel=""nofollow noreferrer"" rel=""nofollow noreferrer"">Java 9 Regular Expressions: A hands-on guide to use regular expressions with Java</a></p>
+<p><a href=""https://rads.stackoverflow.com/amzn/click/com/1787288706"" rel=""nofollow noreferrer"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/PMR1m.jpg"" alt=""Java 9 Regular Expressions: A hands-on guide to use regular expressions with Java"" /></a></p>
+<ul>
+<li><a href=""http://www.linkedin.com/in/anubhava"" rel=""nofollow noreferrer"">My Linked-In Profile</a></li>
+<li><a href=""https://twitter.com/anubhava"" rel=""nofollow noreferrer"">On Twitter: Follow @anubhava</a></li>
+<li>Works for Verizon Media</li>
+<li><a href=""http://anubhava.wordpress.com"" rel=""nofollow noreferrer"">My Blog</a></li>
+</ul>
+","117820","28389","1344","","","262968"
+"19563","645138","2008-09-20 09:39:05","CB Bailey","2021-05-07 09:55:33","","United Kingdom","<p>I am a programmer. My principal language is C++. I've also done commercial work in Java, C, Perl, Python, Javascript and APL. I've also been known to dabble in lisp, Haskell, assembler (ARM, x86, amd64) and probably a few other languages that haven't left as big a mark.</p>
+
+<p>Git advocate; trans; non-binary. They/them.</p>
+
+<p>Programmer at Bloomberg. Posts and commments are my opinions and are not sponsored or endorsed by my employer.</p>
+
+<p>I'm a member of the <a href=""http://accu.org"" rel=""nofollow noreferrer"">ACCU</a>, and I spoke at accu201[2345678] in April.</p>
+","37974","1148","203","","","10375"
+"69083","638402","2009-02-20 20:24:52","Guffa","2021-04-30 11:05:54","http://www.guffa.com","Virsbo, Sweden","<p>The name is Göran Andersson, and I work as a programmer, mostly building ASP.NET applications with SQL Server as database.</p>
+
+<p>I have used a lot of different languages over the years, like 6502 machine code, 68000 assembler, x86 assembler, Atari Basic, GFA Basic, Compis Pascal, Turbo Pascal, C, VB 6, VB.NET, C#.</p>
+","39092","494","140","","","26521"
+"571407","631716","2011-01-11 14:47:57","JB Nizet","2020-08-22 09:02:46","","Saint-Etienne, France","<p>Java developer since 1997, and enthusiast scuba diver since 2001.</p>
+
+<p>Proud co-founder of <a href=""http://ninja-squad.com/"" rel=""nofollow noreferrer"">Ninja Squad</a>.</p>
+
+<p>Author of <a href=""http://dbsetup.ninja-squad.com/"" rel=""nofollow noreferrer"">DbSetup</a>, <a href=""https://ngx-speculoos.ninja-squad.com/"" rel=""nofollow noreferrer"">ngx-speculoos</a> and <a href=""https://ngx-valdemort.ninja-squad.com/"" rel=""nofollow noreferrer"">ngx-valdemort</a>.</p>
+
+<p>Co-writer and reviewer of two books on <a href=""https://books.ninja-squad.com/angularjs"" rel=""nofollow noreferrer"">AngularJS</a> (in French) and <a href=""https://books.ninja-squad.com/angular"" rel=""nofollow noreferrer"">Angular</a> (English and French).</p>
+","82695","5476","9087","","","277416"
+"139985","630369","2009-07-17 07:28:22","Stephen C","2021-05-09 05:23:52","","Australia","","65923","3212","4349","","","47283"
+"106224","627386","2009-05-13 11:40:29","BoltClock","2021-05-08 20:02:56","https://NOVALISTIC.com","Singapore","
+<p>My pronouns are they/them and he/him. <a href=""https://blog.novalistic.com/archives/2019/10/my-pronouns-are-they-them-and-he-him"" rel=""nofollow noreferrer"">Learn more.</a></p>
+<p>Curious about my profile picture? Check out my <a href=""https://www.newgrounds.com/portal/view/715591"" rel=""nofollow noreferrer"">Flash game</a> on Newgrounds!</p>
+<p>I'm a software developer who relishes authoring HTML and CSS on the web and hacking C# on their self-built Windows PC. I adore Jesus and the colors green, purple and teal, and I often catch myself thinking in numbers and code on a whim. I was also a <a href=""https://mvp.microsoft.com/en-us/PublicProfile/5002751"" rel=""nofollow noreferrer"">Microsoft MVP</a> from 2017 through 2020.</p>
+<p>My areas of specialty are in web design — I've known HTML and CSS for more than a decade now! — and Windows app development with C# and XAML. Other languages I've worked with include (from most to least experience) PHP, SQL, ActionScript, Swift, Objective-C, Perl, Python, and Java.</p>
+<h2>Roles on this site</h2>
+<p>From the tags I participate in (below) as well as my bio (above), it's easy to tell that I'm interested in a number of languages and topics. However, you'll most often find me patrolling, curating and moderating the following tags:</p>
+<p><a href=""/questions/tagged/html"" class=""post-tag"" title=""show questions tagged &#39;html&#39;"" rel=""tag"">html</a><a href=""/questions/tagged/css"" class=""post-tag"" title=""show questions tagged &#39;css&#39;"" rel=""tag"">css</a><a href=""/questions/tagged/css-selectors"" class=""post-tag"" title=""show questions tagged &#39;css-selectors&#39;"" rel=""tag"">css-selectors</a><a href=""/questions/tagged/internet-explorer"" class=""post-tag"" title=""show questions tagged &#39;internet-explorer&#39;"" rel=""tag"">internet-explorer</a><a href=""/questions/tagged/microsoft-edge"" class=""post-tag"" title=""show questions tagged &#39;microsoft-edge&#39;"" rel=""tag"">microsoft-edge</a></p>
+<p>As a moderator, I believe I am more efficient than ever with post revisions and other housekeeping duties, as I continue with my question-answering business. While I actively add fresh content to the site, I'm also helping out with cleaning and polishing our currently-existing posts. &quot;Dust tends to settle&quot;, and all that jazz.</p>
+<h2>Achievements</h2>
+<ul>
+<li><p><strong>Singapore's <a href=""http://data.stackexchange.com/stackoverflow/query/27163/top-users-singapore"" rel=""nofollow noreferrer"">top user by reputation</a></strong> and <a href=""http://meta.stackexchange.com/q/113294/137537""><strong>first community moderator ♦</strong></a> on Stack Overflow!</p>
+</li>
+<li><p><strong>1st user</strong> to earn the <a href=""http://stackoverflow.com/badges/869/css-selectors"">bronze</a>, <a href=""http://stackoverflow.com/badges/1101/css-selectors"">silver</a> and <a href=""http://stackoverflow.com/badges/1715/css-selectors"">gold</a> <a href=""/questions/tagged/css-selectors"" class=""post-tag"" title=""show questions tagged &#39;css-selectors&#39;"" rel=""tag"">css-selectors</a> badges!</p>
+</li>
+<li><p><strong>4th user</strong> to earn the <a href=""http://stackoverflow.com/badges/247/css"">gold</a> <a href=""/questions/tagged/css"" class=""post-tag"" title=""show questions tagged &#39;css&#39;"" rel=""tag"">css</a> badge!</p>
+</li>
+<li><p><strong>9th user</strong> to earn the <a href=""http://stackoverflow.com/badges/134/html"">gold</a> <a href=""/questions/tagged/html"" class=""post-tag"" title=""show questions tagged &#39;html&#39;"" rel=""tag"">html</a> badge!</p>
+</li>
+<li><p><strong>45th user</strong> to earn the <a href=""http://stackoverflow.com/badges/146/legendary"">Legendary</a> badge!</p>
+</li>
+<li><p><strong>54th user</strong> to reach the 100,000-reputation milestone!</p>
+</li>
+</ul>
+","114182","12937","2505","","","37175"
+"2901002","623209","2013-10-20 20:27:26","jezrael","2021-05-09 03:26:24","","Bratislava, Slovakia","<p>Please don't hesitate to contact me:</p>
+
+<pre><code>import pandas as pd
+
+d = {0: {50: 16, 23: 7, 22: 7, 5: 1, 31: 10, 47: 15, 2: 0, 44: 14, 39: 13, 21: 7, 11: 3, 30: 10, 16: 5, 42: 14, 26: 8, 1: 0, 40: 13, 32: 10, 34: 11, 46: 15, 49: 16, 15: 5, 37: 12, 9: 3, 12: 4, 41: 13, 24: 8, 10: 3, 18: 6, 8: 2, 33: 11, 35: 11, 0: 0, 36: 12, 27: 9, 48: 16, 38: 12, 7: 2, 28: 9, 3: 1, 29: 9, 43: 14, 4: 1, 45: 15, 17: 5, 14: 4, 13: 4, 19: 6, 25: 8, 20: 6, 6: 2}, 1: {50: 2, 23: 2, 22: 1, 5: 2, 31: 1, 47: 2, 2: 2, 44: 2, 39: 0, 21: 0, 11: 2, 30: 0, 16: 1, 42: 0, 26: 2, 1: 1, 40: 1, 32: 2, 34: 1, 46: 1, 49: 1, 15: 0, 37: 1, 9: 0, 12: 0, 41: 2, 24: 0, 10: 1, 18: 0, 8: 2, 33: 0, 35: 2, 0: 0, 36: 0, 27: 0, 48: 0, 38: 2, 7: 1, 28: 1, 3: 0, 29: 2, 43: 1, 4: 1, 45: 0, 17: 2, 14: 2, 13: 1, 19: 1, 25: 1, 20: 2, 6: 0}, 2: {50: 32, 23: 32, 22: 32, 5: 32, 31: 32, 47: 32, 2: 32, 44: 33, 39: 46, 21: 64, 11: 97, 30: 97, 16: 97, 42: 99, 26: 99, 1: 99, 40: 99, 32: 100, 34: 100, 46: 100, 49: 101, 15: 101, 37: 101, 9: 101, 12: 102, 41: 103, 24: 103, 10: 103, 18: 103, 8: 104, 33: 105, 35: 105, 0: 106, 36: 108, 27: 109, 48: 109, 38: 110, 7: 110, 28: 111, 3: 111, 29: 111, 43: 111, 4: 111, 45: 111, 17: 112, 14: 112, 13: 114, 19: 116, 25: 116, 20: 121, 6: 122}}
+print (pd.DataFrame(d).pivot(0,1,2).applymap(chr).agg(''.join))
+</code></pre>
+
+<p>I decided to create comments when downvoting an answer, because idea is to let the answerer know if is something wrong. Sometimes not easy, but fair. If answer is changed and correct, I always remove downvote.</p>
+
+<p>Most time repeating dupes, not easy find:</p>
+
+<pre><code>pivot dupe
+https://stackoverflow.com/q/47152691/
+booelan indexing dupe
+https://stackoverflow.com/q/17071871
+idxmax + groupby dupe
+https://stackoverflow.com/q/15705630
+idxmin + groupby dupe
+https://stackoverflow.com/q/23394476
+melt dupe
+https://stackoverflow.com/q/28654047
+explode dupe
+https://stackoverflow.com/q/12680754
+cumcount dupe
+https://stackoverflow.com/q/23435270
+map dupe
+https://stackoverflow.com/q/24216425
+groupby+size+unstack dupe
+https://stackoverflow.com/q/39132742
+https://stackoverflow.com/q/38278603
+sorting inplace dupe
+https://stackoverflow.com/q/42613581
+factorize dupe
+https://stackoverflow.com/q/39357882
+groupby+size dupe
+https://stackoverflow.com/q/19384532
+groupby+ mean dupe
+https://stackoverflow.com/q/30482071
+transform sum dupe
+https://stackoverflow.com/q/30244952
+transform size dupe
+https://stackoverflow.com/q/37189878
+keyerror dupe
+https://stackoverflow.com/q/43736163
+merge/map dupe
+https://stackoverflow.com/q/53010406
+value_count dupe
+https://stackoverflow.com/q/15411158
+numpy select, where dupe
+https://stackoverflow.com/q/19913659
+wide_to_long dupe
+https://stackoverflow.com/q/55766565
+reset_index dupe
+https://stackoverflow.com/q/36932759
+</code></pre>
+","127635","23622","1523","https://i.stack.imgur.com/hMDvl.jpg?s=128&g=1","","3465245"
+"88656","611179","2009-04-08 15:28:46","Eric Lippert","2021-05-06 17:45:12","http://ericlippert.com","Seattle, WA","<p>Eric Lippert designs programming languages at Facebook. Other notable work includes designing C# analyzers at Coverity, and developing the Visual Basic, VBScript, JScript and C# compilers at Microsoft. He is on Twitter at <a href=""https://twitter.com/ericlippert"" rel=""nofollow noreferrer"">@ericlippert</a> and writes a blog about programming language design and other fabulous adventures in coding at <a href=""http://ericlippert.com"" rel=""nofollow noreferrer"">http://ericlippert.com</a>.</p>
+","457171","2","4645","","","32093"
+"13249","593799","2008-09-16 17:53:10","Nick Craver","2021-05-09 01:00:28","https://nickcraver.com/blog/","Winston-Salem, NC","<p>I am the Architecture Lead for Stack Overflow. My day job consists of being a Developer, Site Reliability Engineer, and DBA. I design and build very fast things in hopes of making life easier for millions of developers.</p>
+
+<p>Blog: <a href=""https://nickcraver.com/blog/"" rel=""nofollow noreferrer"">nickcraver.com/blog</a><br>
+Twitter: <a href=""https://twitter.com/Nick_Craver"" rel=""nofollow noreferrer"">@Nick_Craver</a><br>
+My Developer Story: <a href=""https://stackoverflow.com/story/ncraver"">stackoverflow.com/story/ncraver</a></p>
+
+<p><sub>Disclaimer: I have <em>no idea</em> what I'm talking about, all my answers are guesses!</sub></p>
+","76007","3919","10","https://i.stack.imgur.com/nGCYr.jpg?s=256&g=1","","7598"
+"53114","592308","2009-01-08 22:12:01","Gumbo","2017-10-15 16:01:33","https://www.linkedin.com/in/markuswulftange","Ulm, Germany","<p>I have discontinued coming here regularly, so I'm afraid I won't be able to respond. If you want to reach me, contact me <a href=""https://twitter.com/mwulftange"" rel=""nofollow noreferrer"">via Twitter (@mwulftange)</a> or <a href=""https://www.linkedin.com/in/markuswulftange"" rel=""nofollow noreferrer"">via LinkedIn</a>.</p>
+
+<p>Wanna work with me at <a href=""https://www.code-white.com/"" rel=""nofollow noreferrer"">Code White</a>? Have a look at <a href=""https://stackoverflow.com/jobs/companies/code-white-gmbh"">our current job openings</a>!</p>
+","46743","1466","284","","","21746"
+"1491895","592182","2012-06-29 18:12:29","Barmar","2021-05-08 20:28:28","","Arlington, MA","<p>I've been in the computer industry since about 1979 (I had a summer programming job after graduating from high school), and I've done a little bit of everything. I've programmed in ancient languages (BASIC, PL/I, COBOL, Lisp) and more recent ones (Perl, PHP, Javascript), with a few random assemblers thrown into the mix. I've been a system programmer, system administrator, tech support engineer, and performance engineer.</p>
+
+<p>I'm currently working as a programmer for <a href=""http://www.bridgebase.com"" rel=""nofollow"">Bridge Base Online</a>, the leading online site for playing bridge. I've been learning modern web application development in the process.</p>
+
+<p>P.S. My name is <strong>barmar</strong>, not <strong>barman</strong>.</p>
+","90494","7104","3928","","","1613587"
+"18393","577542","2008-09-19 00:24:47","cletus","2021-05-06 18:12:34","http://www.cforcoding.com","New York, NY","<p>I am a software developer from Perth, Western Australia (now living in New York City) with roughly 13 years experience in developing end-to-end solutions in <b>Java, C#, C, C++, Perl, PHP and HTML/CSS/Javascript</b>.</p>
+
+<p>I have experience in developing user interfaces (Web and desktop), database design and development (Oracle, SQL Server, MySQL), data modelling, software design, data conversion, Web application development and high-performance high-availability computing.</p>
+
+<p>I work for Google in New York City.</p>
+
+<p>I have a blog I call <a href=""http://www.cforcoding.com"" rel=""nofollow"">C for Coding</a>. Come check it out!</p>
+","68711","2408","395","","","9867"
+"816620","576694","2011-06-26 23:59:00","jfriend00","2021-05-09 04:56:25","","","<p>25 years of software coding and management.  Now, retired.</p>
+","33945","4067","5373","https://i.stack.imgur.com/Xu7hp.jpg","","432092"
+"505088","571170","2009-08-25 18:52:23","David Heffernan","2021-05-08 20:51:11","","Ulverston, United Kingdom","<p>Answers that I frequently refer to:</p>
+
+<ul>
+<li><a href=""http://meta.stackexchange.com/q/5234/"">How does accepting an answer work?</a></li>
+<li><a href=""http://stackoverflow.com/q/21403628/"">How can I search for Delphi documentation?</a></li>
+<li><a href=""http://stackoverflow.com/q/5308584/"">How to return text from Native (C++) code</a></li>
+<li><a href=""http://stackoverflow.com/q/4354071/"">How can I allow a form to accept file dropping without handling Windows messages?</a></li>
+<li><a href=""http://stackoverflow.com/questions/8058745/tlabel-and-tgroupbox-captions-flicker-on-resize"">TLabel and TGroupbox Captions Flicker on Resize</a></li>
+<li><a href=""http://stackoverflow.com/questions/8296784/how-do-i-make-my-gui-behave-well-when-windows-font-scaling-is-greater-than-100/8296833#8296833"">How do I make my GUI behave well when Windows font scaling is greater than 100%</a></li>
+<li><a href=""http://stackoverflow.com/questions/5639531/buffered-files-for-faster-disk-access/5639712#5639712"">Buffered files (for faster disk access)</a></li>
+<li><a href=""http://stackoverflow.com/questions/6128287/tprogressbar-never-fills-up-all-the-way-seems-to-be-updating-too-fast/6128562#6128562"">TProgressBar never fills up all the way - seems to be updating too fast?</a></li>
+<li><a href=""http://stackoverflow.com/questions/8548843/why-shouldnt-i-use-if-assigned-before-using-or-freeing-things/8550628#8550628"">Why should I not use &quot;if Assigned()&quot; before using or freeing things?</a></li>
+<li><a href=""http://stackoverflow.com/questions/14892793/search-for-a-label-by-its-caption/14894296#14894296"">Control enumerators to turn recursive parent/child walking into simple for/in loops</a></li>
+<li><a href=""http://stackoverflow.com/questions/4176328/undefined-behavior-and-sequence-points"">Undefined behavior and sequence points</a></li>
+<li><a href=""http://stackoverflow.com/questions/7398580/reduce-exe-file/7398658#7398658"">Reduce exe file</a></li>
+<li><a href=""http://stackoverflow.com/questions/12953225/how-can-i-make-a-form-that-is-not-disabled-when-another-form-is-shown-modally#answer-12957315"">How can I make a form that is not disabled when another form is shown modally?</a></li>
+<li><a href=""http://stackoverflow.com/questions/14587456/how-can-i-stop-my-application-showing-on-the-taskbar/14587645#14587645"">How can I stop my application showing on the taskbar?</a></li>
+<li><a href=""http://stackoverflow.com/questions/8978177/patch-routine-call-in-delphi#answer-8978266"">Simply code hooking</a></li>
+<li><a href=""http://stackoverflow.com/questions/15027726/how-to-make-a-thread-finish-its-work-before-being-freed/15033839#15033839"">Consumer thread / blocking queue</a></li>
+<li><a href=""http://stackoverflow.com/questions/21636307/how-to-do-one-way-hashing-of-an-ascii-string-using-standard-functions-of-delphi/21638594#21638594"">How to do one-way hashing of an ASCII string using standard functions of Delphi?</a></li>
+</ul>
+
+<p>Other useful resources:</p>
+
+<ul>
+<li>Rob Kennedy's <a href=""http://pages.cs.wisc.edu/~rkennedy/exact-float"" rel=""nofollow"">What is the exact value of a floating-point variable?</a></li>
+<li><a href=""http://blogs.msdn.com/b/winsdk/archive/2009/07/14/launching-an-interactive-process-from-windows-service-in-windows-vista-and-later.aspx"" rel=""nofollow"">Launching an interactive process from Windows Service in Windows Vista and later</a></li>
+<li><a href=""http://msdn.microsoft.com/en-us/magazine/cc163486.aspx"" rel=""nofollow"">Teach Your Apps To Play Nicely With Windows Vista User Account Control</a></li>
+<li><a href=""http://msdn.microsoft.com/en-us/library/windows/desktop/ms632599.aspx"" rel=""nofollow"">Window Features</a></li>
+<li><a href=""http://sscce.org/"" rel=""nofollow"">Short, Self Contained, Correct (Compilable), Example</a></li>
+<li><a href=""http://stackoverflow.com/q/15700193"">Raymond Chen's epic series on modality</a></li>
+</ul>
+","91203","14208","26205","","","237126"
+"203907","552748","2009-11-05 18:11:23","Bozho","2021-05-06 21:07:32","https://techblog.bozho.net","Sofia, Bulgaria","<p>Bozhidar Bozhanov - Senior Java developer (<a href=""http://bozho.net/cv/Bozhidar_Bozhanov_CV.pdf"" rel=""nofollow noreferrer"">CV</a> | <a href=""http://bozho.net/cv/"" rel=""nofollow noreferrer"">Web CV</a>)</p>
+<p>Creator of:</p>
+<p><a href=""https://logsentinel.com/"" rel=""nofollow noreferrer"">https://logsentinel.com/</a> (LogSentinel SIEM)
+<a href=""https://logsentinel.com/sentineldb"" rel=""nofollow noreferrer"">https://logsentinel.com/sentineldb</a> (GDPR-compliant, privacy-by-design datastore)
+<a href=""http://computoser.com"" rel=""nofollow noreferrer"">http://computoser.com</a> (algorithmic music generation)</p>
+","96846","7208","247","https://i.stack.imgur.com/07ej2.jpg?s=128&g=1","","70258"
+"104349","540269","2009-05-10 12:36:13","Daniel Roseman","2021-05-08 22:12:30","http://blog.roseman.org.uk","London, United Kingdom","<p>Web developer. He/him.</p>
+","60145","12914","10886","","","36572"
+"70604","534991","2009-02-24 23:21:47","Pascal Thivent","2018-05-22 15:06:30","http://pascal.thivent.name/","","<p>I'm a Software Engineer with 10 years of experience. I'm specialized in Java and Agile (XP, Scrum and Lean) and work as Agile Architect/Coach/Facilitator.</p>
+
+<p>I like GNU/Linux, Ubuntu, open source philosophy, knowledge sharing, finding innovative solutions, continuous improvement, building better software, Toyota,...</p>
+
+<p>I tweet <a href=""http://twitter.com/pthivent"" rel=""nofollow"">here</a>, post links <a href=""http://delicious.com/pthivent"" rel=""nofollow"">here</a>, blog <a href=""http://pascal.thivent.name/"" rel=""nofollow"">here</a> (well, actually, I don't blog).</p>
+
+<p>Some of my answers:</p>
+
+<ul>
+<li><a href=""http://stackoverflow.com/questions/1544642/1544667#1544667"">Agile - What is your most useful technique for finding (or preventing) bugs?</a> </li>
+<li><a href=""http://stackoverflow.com/questions/1610597/1610820#1610820"">Java - Why Spring Framework ?</a></li>
+<li><a href=""http://stackoverflow.com/questions/1960280/1960447#1960447"">Java EE - What to learn for making Java web applications in Java EE 6?</a></li>
+<li><a href=""http://stackoverflow.com/questions/2499323/2513026#2513026"">Java EE - JEE6 vs. Spring 3 stack</a></li>
+<li><a href=""http://stackoverflow.com/questions/2084169/2084512#2084512"">Java EE - Choosing a Java Web Framework now?</a></li>
+<li><a href=""http://stackoverflow.com/questions/1517557/1517690#1517690"">Java EE - What is “Groovy on Grails” and what kind of applications are built using it?</a></li>
+<li><a href=""http://stackoverflow.com/questions/2351220/2351487#2351487"">Java EE - Stateless and Stateful Enterprise Java Beans</a></li>
+<li><a href=""http://stackoverflow.com/questions/2200725/2201456#2201456"">Maven - Questions to Determine Maven Knowledge</a> </li>
+<li><a href=""http://stackoverflow.com/questions/3157240/3166762#3166762"">Maven - Maven 3 - Worth it?</a></li>
+<li><a href=""http://stackoverflow.com/questions/1992213/2002304#2002304"">Maven - Maven parent pom vs modules pom</a></li>
+<li><a href=""http://stackoverflow.com/questions/2050241/2050617#2050617"">Maven - What is the maven reactor?</a> </li>
+<li><a href=""http://stackoverflow.com/questions/3589562/3589974#3589974"">Maven - Why maven ? What are the benefits?</a></li>
+<li><a href=""http://stackoverflow.com/questions/2435253/2440516#2440516"">Persistence - A concise, clear list of what is new in JPA2?</a></li>
+<li><a href=""http://stackoverflow.com/questions/3269057/3269449#3269449"">Persistence - Hibernate and question nobody asks</a> </li>
+<li><a href=""http://stackoverflow.com/questions/2397016/2397337#2397337"">Persistence - Java - JDBC alternatives</a></li>
+<li><a href=""http://stackoverflow.com/questions/1607819/1609631#1609631"">Persistence - Weaknesses of Hibernate</a></li>
+</ul>
+","56150","4160","241","","","26957"
+"65358","521229","2009-02-12 00:21:11","Reed Copsey","2021-05-07 20:58:26","http://www.reedcopsey.com","Yarmouth, ME, USA","<p>CTO - C Tech Development Corp.</p>
+
+<p>Microsoft .NET MVP - 2010-2019</p>
+
+<p>I've been programming professionally for over 20 years, most recently with a focus on F#, C++ and C#.</p>
+","51947","6368","112","","","25430"
+"9951","513870","2008-09-15 20:34:12","e-satis","2020-04-26 15:22:20","https://formationspython.com","","<p>French <strong>Python/Django</strong> freelance dev. I love training people all around the world. You can contact me for a session via <a href=""http://formationspython.com/"" rel=""nofollow"">Formations Python</a>.</p>
+
+<p>Got some famous answers about Python  <a href=""http://stackoverflow.com/questions/739654/understanding-python-decorators/1594484#1594484"">decorators</a>, <a href=""http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949"">metaclasses</a> and <a href=""http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained/231855#231855"">yield</a>, and this :</p>
+
+<p><img src=""http://i.stack.imgur.com/5i8UX.png"" alt=""Python gold baddge""></p>
+","38854","3550","205","https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1","","6018"
+"1048572","509421","2011-11-15 22:20:42","Bergi","2021-05-09 04:14:09","","","<p><a href=""/questions/tagged/ecmascript-6"" class=""post-tag"" title=""show questions tagged &#39;ecmascript-6&#39;"" rel=""tag"">ecmascript-6</a> and <a href=""/questions/tagged/promise"" class=""post-tag"" title=""show questions tagged &#39;promise&#39;"" rel=""tag"">promise</a> evangelist.
+</p>
+","49815","9761","6015","","","1042959"
+"9021","497888","2008-09-15 17:31:26","nickf","2021-04-21 11:07:53","http://spadgos.github.io/","Zürich, Switzerland","<p>Javascript nerd. Senior Software Engineer at Google. Ex-SoundClouder.</p>
+","18070","2606","323","","","5559"
+"57695","497425","2009-01-21 21:27:38","Peter Lawrey","2021-05-06 09:11:57","http://vanilla-java.github.io/","Surrey, UK","<p>Architect and CEO for Chronicle Software <a href=""http://chronicle.software"" rel=""nofollow noreferrer"">http://chronicle.software</a></p>
+
+<p>Blog has had 4 million hits <a href=""http://vanilla-java.github.io"" rel=""nofollow noreferrer"">http://vanilla-java.github.io</a></p>
+
+<p>Most answer for Java, JVM, concurrency, file-io and memory on Stackoverflow.com</p>
+
+<p>Founder of the Performance Java User's Group.</p>
+
+<p>Java Champion</p>
+","76113","16819","392","","","23121"
+"18936","497272","2008-09-17 20:27:26","bobince","2020-03-17 09:44:27","http://www.doxdesk.com/","Cambridge, UK","<p>bobince (at) gmail [dot] com</p>
+
+<p>Hello! I'm a Brit ex-ex-pat. I make programs. Sometimes I make graphics. Sometimes I make security. All too often I have to do all of those together because of all these webs that people seem to like having. That pesky internet!</p>
+
+<p>Favourite language (high level): Python</p>
+
+<p>Favourite language (low level): ARM assembler</p>
+
+<p>Favourite programming paradigm: functional</p>
+
+<p>Favourite desktop OS: they're all equally annoying, so might as well go for the free one</p>
+
+<p>Favourite metasyntactical variable: bof</p>
+
+<p>Favourite SO tag: [unicode]</p>
+
+<p>Favourite Unicode character: U+2615 HOT BEVERAGE</p>
+
+<p>Favourite hot beverage: water with oestrogen and lemon. That's nice!</p>
+
+<p>Favourite citrofortunella hybrid: limequat</p>
+
+<p>Favourite unlikely fictional alliterative pontiff: His Holiness Pope Larry Lackapants IV</p>
+","70871","3887","604","","","10108"
+"12950","488998","2008-09-16 16:22:14","tvanfosson","2021-05-05 14:01:47","http://farm-fresh-code.blogspot.com","Iowa City, IA","<p><em>The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.</em> -- E.W. Dijkstra, <a href=""http://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html"" rel=""nofollow noreferrer"">The Humble Programmer</a></p>
+
+<p><a href=""https://homevalet.co"" rel=""nofollow noreferrer"">HomeValet.co</a></p>
+","48758","4840","374","","","7448"
+"1187415","487170","2012-02-03 11:49:20","Martin R","2021-05-09 04:51:59","","Germany","","41232","4132","6877","https://i.stack.imgur.com/LpTRB.png?s=128&g=1","","1220712"
+"217408","486424","2009-11-23 22:46:16","Günter Zöchbauer","2021-05-08 18:48:17","","Linz, Austria","<p>Google+ Profil: <a href=""https://twitter.com/gzoechi"" rel=""nofollow noreferrer"">https://twitter.com/gzoechi</a></p>
+
+<ul>
+<li><p>I'm an enthusiastic and experienced </p>
+
+<ul>
+<li>software engineer</li>
+<li>sortware architect</li>
+<li>developer</li>
+<li>consultant</li>
+<li><strong>looking for clients/projects</strong> 
+
+<ul>
+<li>I focus on <strong>custom line of business applications</strong> 
+with Dart, Flutter, Angular (mobile, browser, server)</li>
+</ul></li>
+</ul></li>
+<li><p>I have also a lot of experience with</p>
+
+<ul>
+<li>TypeScript</li>
+<li>CSS</li>
+<li>.NET/C# , Java, Dynamics AX ERP</li>
+<li>databases (SQL, Firebase)</li>
+<li>OSX, Linux, Windows</li>
+<li>and many more</li>
+</ul></li>
+</ul>
+","88865","21822","523","https://i.stack.imgur.com/IlnZm.jpg?s=128&g=1","","879403"
+"1968","481261","2008-08-19 15:59:21","Konrad Rudolph","2021-05-08 12:15:13","http://klmr.me","Cambridge, United Kingdom","<p>I’m a bioinformagician slash scientist <i>&amp;</i> software developer. In the past I’ve worked at the <a href=""http://www.gurdon.cam.ac.uk/"" rel=""nofollow noreferrer"">Gurdon Institute</a> of the <a href=""http://www.cam.ac.uk/"" rel=""nofollow noreferrer"">University of Cambridge</a> and at <a href=""http://www.ebi.ac.uk/"" rel=""nofollow noreferrer"">EMBL-EBI</a>.</p>
+
+<p>Currently I work on compression software. Over the years I’ve dabbled in everything from biological research (mostly genomics and epigenetics) and statistical analysis (using R) to software development, both on the frontend (using e.g. HTML, JavaScript, WinForms, Swing) and the backend (using C++, Java, Python, Ruby, PHP, to name just a few). <a href=""https://github.com/klmr/thesis"" rel=""nofollow noreferrer"">My PhD thesis</a> was on the regulation of expression of non-coding RNA in mammals.</p>
+
+<p><kbd>(he/him)</kbd></p>
+","72087","17340","1374","","","1475"
+"279627","480111","2010-02-23 15:55:08","Sven Marnach","2021-05-07 09:14:32","http://marnach.net","Preetz, Germany","<p>Mathematician and software engineer.</p>
+
+<p>You can contact me privately at <code>sven (at) marnach (dot) net</code>.  If you have programming questions, please ask them here on StackOverflow.  You will get much quicker answers, and everyone will profit from them.</p>
+","18992","3480","433","","","104636"
+"3832970","479836","2014-07-12 19:17:14","Wiktor Stribiżew","2021-05-09 01:10:23","","Warsaw, Poland","<p><strong>If you need specific regex help that you cannot find on SO, feel free to book a 1:1 session with me at
+<a href=""https://www.codementor.io/@wiktor.stribizew"" rel=""nofollow noreferrer"">https://www.codementor.io/@wiktor.stribizew</a></strong></p>
+<p><strong>If you want to thank me for help more, you can now buy me a... smoothie at <a href=""https://www.buymeacoffee.com/wstribizew"" rel=""nofollow noreferrer"">https://www.buymeacoffee.com/wstribizew</a></strong></p>
+<p>I really like <a href=""http://www.commitstrip.com/en/2014/02/24/coder-on-the-verge-of-extinction"" rel=""nofollow noreferrer"">this comic</a> :)</p>
+<p><a href=""http://data.stackexchange.com/stackoverflow/query/341609/top-warsaw-so-users"" rel=""nofollow noreferrer"">Top SO users from Warsaw</a></p>
+<a href=""http://stackexchange.com/users/4739783"">
+<img src=""https://stackexchange.com/users/flair/4739783.png"" width=""208"" height=""58"" alt=""profile for Wiktor Stribiżew on Stack Exchange, a network of free, community-driven Q&amp;A sites"" title=""profile for Wiktor Stribiżew on Stack Exchange, a network of free, community-driven Q&amp;A sites"">
+</a>
+","63926","18155","54596","https://www.gravatar.com/avatar/64323e6cf08401474da3bf770ea13b58?s=128&d=identicon&r=PG&f=1","","4739783"
+"939860","475662","2011-09-12 04:04:08","Erwin Brandstetter","2021-05-09 02:34:17","","Vienna, Austria","<p>Database expert.</p>
+","51660","5246","682","","","904738"
+"476","469947","2008-08-06 08:15:28","deceze","2021-05-08 19:55:20","http://kunststube.net","Germany","<p>More or less independent web dude washed ashore in Japan.<br>
+More or less recently more less than more.<br>
+More recently also less Japan and more Europe.</p>
+
+<p>Full-stack developer, most heavily focussed on web development. Has a background in system administration, so ""full-stack"" pretty much starts at putting CPUs on motherboards, via installing and configuring the OS, writing the backend and frontend, to designing the interface. Bread and butter is PHP, current favourite stack is Python, AngularJS and Polymer; has long standing love affair with Haskell, Erlang and others. Likes tweaking nginx configuration files for some reason.</p>
+
+<p>Is writing articles about topics that keep popping up regularly on Stackoverflow but seldom get the treatment they require, like:</p>
+
+<ul>
+<li><a href=""http://kunststube.net/encoding/"" rel=""nofollow noreferrer"">What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text</a></li>
+<li><a href=""http://kunststube.net/escapism/"" rel=""nofollow noreferrer"">The Great Escapism (Or: What You Need To Know To Work With Text Within Text)</a></li>
+<li><a href=""http://kunststube.net/isset/"" rel=""nofollow noreferrer"">The Definitive Guide To PHP's isset And empty</a></li>
+<li><a href=""http://kunststube.net/frontback/"" rel=""nofollow noreferrer"">Handling Unicode Front To Back In A Web App</a></li>
+<li><a href=""http://kunststube.net/static/"" rel=""nofollow noreferrer"">How Not To Kill Your Testability Using Statics</a></li>
+</ul>
+","78359","13470","51782","","","378"
+"224671","467920","2009-12-04 10:54:10","kennytm","2021-04-29 20:23:30","","Hong Kong","","33608","6117","503","","","79153"
+"34509","465046","2008-11-05 00:38:23","Johannes Schaub - litb","2021-05-05 15:34:21","http://bloglitb.blogspot.com","Frankfurt, Germany","<p>I'm a C++ programmer, interested in linux, compilers and toolchains and generally the embedded software stack. </p>
+
+<p><hr>
+Standardese answers:</p>
+
+<ul>
+<li><a href=""http://stackoverflow.com/questions/2910979/how-is-base-of-works"">How does <code>boost::is_base_of</code> work?</a>
+<li><a href=""http://stackoverflow.com/questions/4420828/another-bug-in-g-clang-c-templates-are-fun"">Injected class name and constructor lookup weirdness</a>
+<li><a href=""http://stackoverflow.com/questions/3519282/why-is-this-ambiguity-here"">
+What happens when <code>op[]</code> and <code>op T*</code> are both there.</a>
+</ul>
+
+<p>FAQ answers:</p>
+
+<ul>
+<li><a href=""http://stackoverflow.com/questions/610245/where-to-put-the-template-and-typename-on-dependent-names"">Where to put ""template"" and ""typename"" on dependent names (now also covers C++11)</a>
+<li><a href=""http://stackoverflow.com/questions/4176328/undefined-behavior-and-sequence-points/4190054#4190054"">Undefined behavior and sequence points</a>
+</ul>
+
+<p><p>
+Favourite answers:</p>
+
+<ul>
+<li><a href=""http://stackoverflow.com/questions/2425728/delete-operator-in-c/2425771#2425771"">Plain <code>new</code>, <code>new[]</code>, <code>delete</code> and <code>delete[]</code> in a nutshell.</a>
+<li><a href=""http://stackoverflow.com/a/13168668/34509"">Assertion failure on <code>T(a)</code> but allowing <code>T t(a)</code> - forbids (accidental) temporaries.</a>
+<li><a href=""http://stackoverflow.com/a/13332744/34509"">Explicitly instantiating a typedef to a class type</a>
+<li><a href=""http://stackoverflow.com/questions/2419650/c-c-macro-template-blackmagic-to-generate-unique-name/2419715#2419715"">Doing <code>RAII</code> the lazy way.</a>
+<li><a href=""http://stackoverflow.com/questions/400951/c-foreach-or-similar/400970#400970"">C for-each over arrays.</a>
+<li><a href=""http://stackoverflow.com/questions/908830/isnt-cs-inline-totally-optional/910686#910686""><code>inline</code> and the ODR in C++</a>, and <a href=""http://stackoverflow.com/questions/2217628/multiple-definition-of-inline-functions-when-linking-static-libs/2218034#2218034""><code>inline</code> in C99</a>
+</ul>
+","112707","5051","2006","https://i.stack.imgur.com/7FnYg.jpg?s=128&g=1","","16029"
+"1583","462347","2008-08-16 20:54:12","Oded","2021-05-06 12:54:01","http://OdedCoster.com/blog","London, United Kingdom","<p>Former <a href=""https://stackoverflow.blog/2013/02/25/max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/"">Stack Overflow employee</a>.</p>
+
+<p>I am a C# ASP.NET developer, with a long professional history of work with web and Microsoft technologies.</p>
+
+<p>I am passionate about writing usable and secure software and am constantly learning.</p>
+
+<p>Blog at <a href=""http://OdedCoster.com/blog"" rel=""nofollow noreferrer""><a href=""http://OdedCoster.com/blog"" rel=""nofollow noreferrer"">http://OdedCoster.com/blog</a></a>.</p>
+
+<p>I have written a <a href=""http://odedcoster.com/blog/2010/07/28/getting-good-answers-on-stackoverflow-part-1-of-n/"" rel=""nofollow noreferrer"">blog series</a> about getting good answers on StackOverflow.</p>
+","55505","3852","4343","https://i.stack.imgur.com/Au4eT.png?s=128&g=1","","1190"
+"20860","459985","2008-09-23 02:05:00","Bill Karwin","2021-05-09 05:04:21","http://www.karwin.com","California","<p>
+I've been a software engineer since 1987, and my specialty is as an SQL maven.
+I also have experience programming in Java, Ruby, Python, Go, PHP, Perl, C, JavaScript, and I have many other coding skills.
+</p>
+
+<p>
+I've written a book, <a href=""http://www.pragprog.com/titles/bksqla/sql-antipatterns"" rel=""nofollow noreferrer"">SQL Antipatterns: Avoiding the Pitfalls of Database Programming</a> from Pragmatic Bookshelf, based on the most common SQL problems I've answered on Stack Overflow and other forums, mailing lists, and newsgroups over the past 15 years.
+</p>
+","52878","10318","223","https://i.stack.imgur.com/iavmP.jpg?s=128&g=1","","10929"
+"87234","458241","2009-04-05 06:44:56","GManNickG","2021-05-08 21:30:58","","","<p>Hi.</p>
+<hr />
+<p>SO Milestones:</p>
+<ul>
+<li>2nd user to get the <a href=""http://stackoverflow.com/badges/158/stl?userid=87234"">silver stl badge</a>.</li>
+<li>3rd user to get the <a href=""http://stackoverflow.com/badges/109/templates?userid=87234"">silver templates badge</a>.</li>
+<li>15th user to get the <a href=""http://stackoverflow.com/badges/49/c?userid=87234"">gold c++ badge</a>.</li>
+<li>27th user to get the <a href=""http://stackoverflow.com/badges/52/c?userid=87234"">silver c badge</a>.</li>
+<li>102nd user to get the <a href=""http://stackoverflow.com/badges/146/legendary?userid=87234"">legendary badge</a>.</li>
+</ul>
+<hr />
+<p>Favorite answers:</p>
+<ul>
+<li><a href=""http://stackoverflow.com/questions/3582001/advantages-of-using-forward/3582313#3582313"">Advantage of using forward</a></li>
+<li><a href=""http://stackoverflow.com/a/14169897/87234"">Is it possible to hash pointers in portable C++03 code?</a> (Value vs. value representation)</li>
+<li><a href=""http://stackoverflow.com/questions/3181766/how-far-to-go-with-a-strongly-typed-language/3181803#3181803"">How far to go with a strongly typed language?</a></li>
+<li><a href=""http://stackoverflow.com/questions/3280410/c-why-doesnt-delete-destroy-anything/3280465#3280465"">[C++] Why doesn't delete destroy anything ?</a></li>
+<li><a href=""http://stackoverflow.com/questions/2474018/when-does-invoking-a-member-function-on-a-null-instance-result-in-undefined-behav/2474021#2474021"">When does invoking a member function on a null instance result in undefined behavior?</a></li>
+<li><a href=""http://stackoverflow.com/questions/5547852/string-literals-not-allowed-as-non-type-template-parameters/5548016#5548016"">String literals not allowed as non type template parameters</a></li>
+<li><a href=""http://stackoverflow.com/questions/3489138/c-how-do-i-prevent-a-function-from-accepting-a-pointer-that-is-allocated-in-li/3489248#3489248"">C++: How do I prevent a function from accepting a pointer that is allocated in-line?</a></li>
+<li><a href=""http://stackoverflow.com/questions/4259885/why-do-i-see-strange-values-when-i-print-uninitialized-variables/4259991#4259991"">Why do I see strange values when I print uninitialized variables?</a></li>
+<li><a href=""http://stackoverflow.com/questions/5610298/question-about-pointer-increment/5610311#5610311"">Question about pointer increment</a></li>
+<li><a href=""http://stackoverflow.com/questions/6122094/building-boostoptions-from-a-string-boostany-map/6123962#6123962"">Building boost::options from a string/boost::any map</a> (Type-erasure)</li>
+</ul>
+","53815","12707","995","https://i.stack.imgur.com/FkjBe.png?s=128&g=1","","31692"
+"65863","451256","2009-02-13 02:07:31","Remy Lebeau","2021-05-09 05:14:25","http://www.lebeausoftware.org","United States","<p>I am a highly visible member of the <a href=""http://forums.embarcadero.com"" rel=""nofollow noreferrer"">Embarcadero developer forums</a>, where software developers who use Borland/CodeGear/Embarcadero's development tools (Delphi, C++Builder, RAD Studio, etc) can talk to each other, help each other out with problems in their projects and source code, and provide expert advise to each other.</p>
+
+<p>I am a primary member of the development and admin teams for the <a href=""http://www.indyproject.org"" rel=""nofollow noreferrer"">Internet Direct (Indy)</a> open source project, its <a href=""http://forums2.atozed.com"" rel=""nofollow noreferrer"">support forums</a> and <a href=""http://www.atozedsoftware.com/indy/Newsgroups.EN.aspx"" rel=""nofollow noreferrer"">newsgroups</a>, and <a href=""https://gitter.im/IndySockets/Indy"" rel=""nofollow noreferrer"">Gitter.im chat room</a>. </p>
+
+<p>I am a contributing author to the <a href=""http://www.bcbjournal.org"" rel=""nofollow noreferrer"">C++Builder Developer's Journal</a> and its <a href=""http://forums.bcbjournal.org"" rel=""nofollow noreferrer"">support forums</a>. BCBJ is a monthly online magazine devoted to all things related to Borland/CodeGear/Embarcadero's C++Builder development toolchain. </p>
+","46788","11378","3270","","","25589"
+"16417","448198","2008-09-17 17:02:31","Paolo Bergantino","2021-05-01 03:11:32","","Kennewick, WA","<p><b>DISCLAIMER</b>: I have no idea what I am talking about.</p>
+","24961","2232","939","","","8983"
+"341994","445234","2010-05-15 16:05:56","matt","2021-05-09 05:13:07","http://www.apeth.net/matt/default.html","","<p>Author most recently of <a href=""https://www.oreilly.com/library/view/ios-14-programming/9781492092087/"" rel=""nofollow noreferrer"">iOS 14 Programming Fundamentals with Swift</a> and of <a href=""https://www.oreilly.com/library/view/programming-ios-14/9781492092162/"" rel=""nofollow noreferrer"">Programming iOS 14</a>.</p>
+<p>Code examples from the books available at <a href=""https://github.com/mattneub/Programming-iOS-Book-Examples"" rel=""nofollow noreferrer"">my github repository</a>.</p>
+<p>A much earlier edition, <em>Programming iOS 6</em>, is available to read for free at <a href=""http://www.apeth.com/iOSBook/"" rel=""nofollow noreferrer"">http://www.apeth.com/iOSBook/</a>.</p>
+<p>And the Swift language chapters of <em>iOS 10 Programming Fundamentals With Swift</em> are available at <a href=""http://www.apeth.com/swiftBook/"" rel=""nofollow noreferrer"">http://www.apeth.com/swiftBook/</a>.</p>
+","59873","2844","27569","","","137658"
+"148870","444204","2009-08-01 06:57:06","Amber","2021-05-08 14:08:57","http://amberyu.st","California","<p><img src=""https://i.stack.imgur.com/YzPIw.png"" alt=""white A on black background with purple glow around it""></p>
+","39915","952","274","","","49939"
+"31671","437284","2008-10-27 01:07:58","alex","2021-04-26 11:16:24","http://alexanderdickson.com","London, United Kingdom","<p>I like to make stuff. Check out my <a href=""http://alexanderdickson.com"" rel=""nofollow noreferrer"">blog</a>.</p>
+
+<p>You can email me at <em>alex</em> at my domain.</p>
+
+<p><a href=""https://github.com/alexanderdickson/dotfiles"" rel=""nofollow noreferrer"">My dotfiles</a>, if you're curious :)</p>
+","39482","19612","2745","https://i.stack.imgur.com/xEJu4.jpg?s=128&g=1","","15143"
+"330315","437274","2010-05-01 10:58:14","a_horse_with_no_name","2021-05-09 05:21:16","","","","117709","7128","4910","","","130792"
+"922184","436836","2011-08-31 18:07:23","Mysticial","2021-04-19 05:45:35","http://www.numberworld.org","Chicago, IL","<p><strong>Alexander Yee</strong> - Formerly at Google in San Bruno, CA. Now I work in financial services.</p>
+
+<p>I'm an enthusiast in computer hardware and programming. I specialize in high performance and parallel computing. I build computers, overclock them, and write software to torture the hell out of them.</p>
+
+<p>I'm also the author of <a href=""http://www.numberworld.org/y-cruncher/"" rel=""nofollow noreferrer"">y-cruncher</a> - a program that computes Pi and other constants. It was used to set the world record for the most digits of Pi ever computed at <a href=""http://www.numberworld.org/misc_runs/pi-5t/details.html"" rel=""nofollow noreferrer"">5 trillion (August 2010)</a>. It currently <a href=""https://cloud.google.com/blog/products/compute/calculating-31-4-trillion-digits-of-archimedes-constant-on-google-cloud"" rel=""nofollow noreferrer"">holds that record at 31.4 trillion digits</a> (January 2019).</p>
+","122756","7279","3","https://i.stack.imgur.com/h7WDB.jpg","","559988"
+"367273","436785","2010-06-15 12:55:43","NPE","2020-11-01 13:45:29","","London, United Kingdom","<p>Eng lead/manager at Google Health Research, working on applying deep learning to improving the quality of cancer care.</p>
+","25203","4147","677","","","152622"
+"179910","436171","2009-09-27 23:38:05","Jerry Coffin","2021-05-09 04:45:25","http://coderscentral.blogspot.com/","San Diego, CA, United States","<p>Started programming on a Control Data mainframe in FORTRAN IV, back when that was still a new thing. Was apparently quite masochistic, because I kept programming anyway. For that matter, I still do...</p>
+<p><br><br>
+Gold C++ badge #20<br>
+Gold C badge #12<br>
+Legendary badge #35</p>
+<p><br><br>
+As of September 2020, I'm one of only two users who has been awarded the Gold <em>vector</em> badge. <br>Vector: <strike>committing crimes</strike>Answering questions with Direction and Magnitude!</p>
+","32914","8102","269","","","60200"
+"596781","427809","2010-05-30 17:31:20","Kerrek SB","2021-05-07 01:46:56","http://www.example.com/","West of house","","36981","6630","14110","","","293472"
+"119963","420425","2009-06-09 16:22:21","Cascabel","2021-04-09 19:05:23","","USA","<p>(she/her)</p>
+
+<p>Moderator on <a href=""https://cooking.stackexchange.com/"">Cooking</a> and <a href=""https://boardgames.stackexchange.com/"">Board &amp; Card Games</a>.</p>
+
+<p>Site/community/mod philosophy: I fight for the users. (and also the site.)</p>
+
+<p>Eating philosophy: food is great! I'm originally from Texas, so I do love my Mexican food and barbecue, but I love just about everything else too.</p>
+
+<p>Cooking philosophy: enjoy yourself! Don't measure unless you need precision, don't rush if you've got time, taste everything, and make enough for leftovers.</p>
+","13480","1657","114","https://i.stack.imgur.com/tBCc0.jpg?s=128&g=1","","41301"
+"187606","417725","2009-10-10 10:29:32","Pekka","2020-10-20 20:37:52","http://pekka.net","Tabayesco, Lanzarote, Canary Islands","<p>Self-employed web developer and graphic designer. After-hours <a href=""https://pekka.net/art"" rel=""nofollow noreferrer"">artist</a>. Working from an old off-the-grid house in the Canary Islands.</p>
+<p>Not doing much here any more because <a href=""https://meta.stackoverflow.com/questions/386324"">the Stack Overflow I wish to build and participate in is no longer supported</a> and the company running it has started going down a path of <a href=""https://meta.stackexchange.com/questions/333965/firing-mods-and-forced-relicensing-is-stack-exchange-still-interested-in-cooper"">incomprehensible, increasingly outright evil actions.</a> They have <a href=""https://meta.stackexchange.com/questions/343890/the-company-s-commitment-to-rebuilding-the-relationship-with-you-our-community"">pledged meaningful change</a> but we'll see whether that ever materializes. (Update in early 2021: it hasn't materialized.)</p>
+<p>Also, I have yet to see a convincing refutation of <a href=""https://i.stack.imgur.com/XiczR.gif"" rel=""nofollow noreferrer"">community members' educated guesses</a> that the confidential agreement with Monica Cellio, the moderator who was unfairly terminated and publicly slandered as a bigot by Stack Overflow, doesn't actually contain some kind of payout from Stack Overflow to Monica, but instead just forces her to shut up about the issue forever under threat of a potentially ruinous countersuit, another hint that a major moral bankruptcy has occurred at this once great company.</p>
+<p>E-Mail: first name at gmx dot de</p>
+","72340","12490","10991","https://i.stack.imgur.com/zzxoB.jpg?s=128&g=1","","63368"
+"209103","413655","2009-11-11 22:30:27","Frank van Puffelen","2021-05-09 04:38:33","","San Francisco, CA","<p>I am an engineer for Firebase at Google.</p>
+
+<p>I respond equally well to being called ""Frank"" or ""puf"".</p>
+","87829","15186","3459","","","72426"
+"771848","413241","2011-05-26 18:34:14","alecxe","2021-05-08 21:02:48","http://www.linkedin.com/in/alexanderafanasiev","New York, United States","<p>I am a Software Developer and generalist who is in love with the Python language and community.</p>
+<p>I greatly value clean and maintainable code, great software, but I know when I need to be a perfectionist and when it stands in a way of product delivery.</p>
+<p>I like to break things, to find new ways to break things, to solve hard problems, to put things under test and stress, and to have my mind blown by an interesting question.</p>
+<p>Some of my interests: Learning, Productivity, AI, Space Exploration, Internet of Things.</p>
+<p>&quot;If you change the way you look at things, the things you look at change.&quot; - Wayne Dyer</p>
+<hr />
+<p>If you are looking for a different way to say &quot;Thank you&quot;:</p>
+<ul>
+<li><a href=""https://www.amazon.com/hz/wishlist/ls/1MU7YL4XSRDEY"" rel=""nofollow noreferrer"">Amazon wish list</a></li>
+<li><a href=""https://pragprog.com/wishlist/alexander-afanasyev-285879-b2ebc8f5a7"" rel=""nofollow noreferrer"">Pragmatic wish list</a></li>
+</ul>
+<hr />
+<pre><code>Today I left my phone at home
+And went down to the sea.
+The sand was soft, the ocean glass,
+But I was still just me.
+
+Then pelicans in threes and fours,
+Glided by like dinosaurs,
+An otter basked upon its back,
+And dived to find another snack.
+
+The sun corpuscular and bright,
+Cast down a piercing shaft,
+And conjured an inspiring sight
+On glinting, bobbing craft.
+
+Two mermaids rose up from the reef,
+Out of the breaking waves.
+Their siren song was opium grief,
+Their faces from the grave.
+
+The mermaids asked a princely kiss
+To free them from their spell.
+I said to try a poet’s bliss.
+They shrugged and bid farewell.
+
+The sun grew dark and sinister,
+In unscheduled eclipse.
+As two eight-headed aliens
+Descended in their ships.
+
+They said the World was nice enough
+But didn’t like our star.
+And asked the way to Betelgeuse,
+If it wouldn’t be too far.
+
+Two whales breached far out to sea,
+And flew up to the sky,
+The crowd was busy frolicking,
+And didn’t ask me why.
+
+Today I left my phone at home,
+On the worst day, you’ll agree.
+If only I had pictures,
+If only you could see.
+
+Not everything was really there,
+I’m happy to confess,
+But I still have the memories,
+Worth more than tweets and stress.
+
+Today I left my phone at home,
+I had no shakes or sorrow.
+If that is what my mind can do,
+It stays at home tomorrow.
+
+Gavin Miller
+</code></pre>
+","35026","34314","2914","https://i.stack.imgur.com/2DTBv.jpg?s=128&g=1","","403854"
+"284240","409666","2010-03-02 08:55:40","Tim Schmelter","2021-05-09 01:03:58","","Code desert","<ul>
+<li>ASP.NET and Windows-Developer (C#/VB.NET, ASP.NET/ MVC, Javascript, etc.)</li>
+<li>Database Admin (primarily SQL-Server and SSAS)</li>
+</ul>
+<p>I've been programming professionally for more than 10 years, most recently with a focus on C#.
+Currently working for a company providing banks with real-time financial market and stock exchange information and developing their websites.</p>
+<ul>
+<li><a href=""/questions/tagged/legendary"" class=""post-tag"" title=""show questions tagged &#39;legendary&#39;"" rel=""tag"">legendary</a>  <a href=""http://stackoverflow.com/badges/146/legendary"">Legendary badge</a> bearer #109</li>
+<li><a href=""/questions/tagged/asp.net"" class=""post-tag"" title=""show questions tagged &#39;asp.net&#39;"" rel=""tag"">asp.net</a> <a href=""http://stackoverflow.com/badges/193/asp-net"">ASP.NET gold badge</a> bearer #12</li>
+<li><a href=""/questions/tagged/sql-server"" class=""post-tag"" title=""show questions tagged &#39;sql-server&#39;"" rel=""tag"">sql-server</a> <a href=""http://stackoverflow.com/help/badges/118/sql-server"">SQL-Server gold badge</a> bearer #33</li>
+<li><a href=""/questions/tagged/c%23"" class=""post-tag"" title=""show questions tagged &#39;c#&#39;"" rel=""tag"">c#</a>  <a href=""http://stackoverflow.com/badges/40/c-sharp"">C# gold badge</a> bearer #143</li>
+<li><a href=""/questions/tagged/vb.net"" class=""post-tag"" title=""show questions tagged &#39;vb.net&#39;"" rel=""tag"">vb.net</a>  <a href=""http://stackoverflow.com/badges/154/vb-net"">VB.NET gold badge</a> bearer #8</li>
+<li><a href=""/questions/tagged/.net"" class=""post-tag"" title=""show questions tagged &#39;.net&#39;"" rel=""tag"">.net</a>  <a href=""http://stackoverflow.com/help/badges/43/net"">.NET gold badge</a> bearer #60</li>
+<li><a href=""/questions/tagged/epic"" class=""post-tag"" title=""show questions tagged &#39;epic&#39;"" rel=""tag"">epic</a>  <a href=""http://stackoverflow.com/badges/145/epic"">Epic badge</a> bearer #268</li>
+<li><a href=""/questions/tagged/.net"" class=""post-tag"" title=""show questions tagged &#39;.net&#39;"" rel=""tag"">.net</a>  <a href=""http://stackoverflow.com/badges/41/net"">.NET silver badge</a> bearer #158</li>
+<li><a href=""/questions/tagged/vb.net"" class=""post-tag"" title=""show questions tagged &#39;vb.net&#39;"" rel=""tag"">vb.net</a>  <a href=""http://stackoverflow.com/badges/58/vb-net"">VB.NET silver badge</a> bearer #14</li>
+</ul>
+","46524","6878","2257","https://i.stack.imgur.com/795LC.png?s=128&g=1","","106749"
+"227665","409512","2009-12-09 03:02:29","codaddict","2021-01-03 20:07:49","","Bangalore, India","<p><b>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</b> Abhijit Rao<br>
+<b>Company&nbsp;&nbsp;&nbsp;:</b> Microsoft, Mountain view, CA<br></p>
+","20738","5782","65","","","80529"
+"73226","401239","2009-03-03 13:40:52","Martin Smith","2021-05-09 03:20:37","","London, United Kingdom","<p><a href=""http://stackexchange.com/users/27657"">
+<img src=""https://stackexchange.com/users/flair/27657.png"" width=""208"" height=""58"" alt=""profile for Martin Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"" title=""profile for Martin Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"">
+</a></p>
+","34926","16076","5195","https://i.stack.imgur.com/Tdqly.png?s=128&g=1","","27657"
+"95592","398894","2009-04-24 16:22:09","Matthew Rankin","2021-05-07 10:55:21","http://webmasters.stackexchange.com/users/1925/","Independence, MO","","11600","3121","14","https://i.stack.imgur.com/utY5u.jpg","","33990"
+"479863","395275","2010-10-18 22:44:11","mu is too short","2021-05-09 04:36:21","https://ca.linkedin.com/in/erichowebc","Whistler, Canada","<p>I write software. I represent only myself when I'm here trying to help people.</p>
+<p><em>mu</em> is from <a href=""http://en.wikipedia.org/wiki/Measure_%28mathematics%29"" rel=""nofollow noreferrer"">Measure Theory</a>.</p>
+<p>You should read these:</p>
+<ul>
+<li><a href=""https://lauren.vortex.com/2018/03/24/why-big-tech-needs-big-ethics-right-now"" rel=""nofollow noreferrer"">Why Big Tech Needs Big Ethics — Right Now!</a></li>
+<li><a href=""http://chem.tufts.edu/answersinscience/relativityofwrong.htm"" rel=""nofollow noreferrer"">The Relativity of Wrong</a></li>
+<li><a href=""https://m.signalvnoise.com/running-in-circles-aae73d79ce19"" rel=""nofollow noreferrer"">Running in Circles</a></li>
+<li><a href=""https://catless.ncl.ac.uk/Risks/"" rel=""nofollow noreferrer"">comp.risks</a></li>
+</ul>
+<p>And you should watch these:</p>
+<ul>
+<li><a href=""https://www.youtube.com/watch?v=99-LoEkAA3w"" rel=""nofollow noreferrer"">Emma Stevens - Blackbird by The Beatles sung in Mi'kmaq</a></li>
+<li><a href=""https://www.youtube.com/watch?v=xnouj9Yz-Gs"" rel=""nofollow noreferrer"">Where I Fall</a></li>
+<li><a href=""https://www.youtube.com/watch?v=OtU9xCbVY6I"" rel=""nofollow noreferrer"">PFC: Skin Deep featuring Buddy Guy</a></li>
+<li><a href=""https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach"" rel=""nofollow noreferrer"">Want To Get Great At Something? Get A Coach</a></li>
+<li><a href=""https://vimeo.com/122375452"" rel=""nofollow noreferrer"">Denali</a></li>
+<li><a href=""https://vimeo.com/149366525"" rel=""nofollow noreferrer"">Skating at Windy Arm, Yukon</a></li>
+<li><a href=""https://vimeo.com/83947019"" rel=""nofollow noreferrer"">Bryan and Kaia</a></li>
+<li><a href=""https://vimeo.com/81139400"" rel=""nofollow noreferrer"">Next Life</a></li>
+</ul>
+<p><a href=""https://www.instagram.com/mu_is_too_short/"" rel=""nofollow noreferrer"">Instagram</a> has some real life things.</p>
+","53301","12427","2245","https://i.stack.imgur.com/ArUCE.jpg?s=128&g=1","","221717"
+"50079","395121","2008-12-30 05:05:52","Jon","2021-05-07 16:11:41","","Berlin","<p>Inquisitive developer, programming teacher, INTP, father of two. Before the two I also used to read a lot and write and listen to music and even play games.</p>
+
+<p>Years of experience with full-stack web development, C#, C++ and a few other things.</p>
+
+<p>You can contact me as ""talegame"" at Gmail until I get a blog.</p>
+","34761","2562","1179","https://i.stack.imgur.com/ud1xq.png","","20816"
+"27535","393750","2008-10-13 17:10:51","gbn","2021-04-30 15:16:59","","Switzerland","<p>aka Shawn</p>
+
+<ul>
+<li>Diabolical DBA</li>
+<li>Satanic sysadmin</li>
+<li>SQL Server Developer monkey</li>
+<li>Grumpy old man</li>
+<li>British expat</li>
+</ul>
+","46514","4521","1080","","","13638"
+"33708","389242","2008-11-03 17:41:05","mmx","2021-01-07 05:18:17","https://mehrdad.afshari.me","","","54581","1782","691","https://i.stack.imgur.com/eKxnb.jpg?s=128&g=1","","15778"
+"1126841","385996","2012-01-02 21:41:39","chepner","2021-05-09 03:05:40","http://none","Massachusetts","<p>Software engineer and bash aficionado.</p>
+","20386","18342","5907","","","1143565"
+"1863229","384334","2012-11-29 12:47:34","Tim Biegeleisen","2021-05-09 05:22:31","https://sg.linkedin.com/in/tim-biegeleisen-557aa38","Singapore","<p>I am currently working as a software and data engineer, somewhere in Singapore.</p>
+<p><strong>Notable statistics:</strong></p>
+<ul>
+<li>Legendary Badge bearer #<strong>218</strong></li>
+<li>Reached 100K reputation #<strong>486</strong></li>
+<li>Reached 200K reputation #<strong>201</strong></li>
+<li>Reached 300K reputation #<strong>125</strong></li>
+</ul>
+","42576","14627","4510","https://i.stack.imgur.com/4sh1l.png?s=128&g=1","","2094057"
+"223092","383989","2009-12-02 17:24:47","Mark Longair","2021-05-08 20:43:59","http://longair.net/mark/","London, United Kingdom","<p>I'm a developer for <a href=""http://mysociety.org"" rel=""nofollow"">mySociety</a>. On Twitter, I'm <a href=""http://twitter.com/mhl20"" rel=""nofollow"">@mhl20</a> and my homepage is <a href=""http://longair.net/mark/"" rel=""nofollow"">here</a>.</p>
+","10432","1346","3","","","78362"
+"276052","382670","2010-02-18 12:32:04","aioobe","2021-05-08 21:00:14","http://aioo.be","Stockholm, Sweden","<p>Previously: Senior Member of Technical Staff at Oracle, developing the java compiler.</p>
+
+<p><strong>Cheering for this one right now:</strong><br />
+<a href=""https://stackoverflow.com/questions/215497/in-java-whats-the-difference-between-public-default-protected-and-private/33627846#33627846"">In Java, difference between package private, public, protected, and private</a></p>
+
+<p><strong>Most interesting math:</strong><br />
+<a href=""https://stackoverflow.com/questions/5837572/generate-a-random-point-within-a-circle-uniformly/50746409#50746409"">Generate a random point within a circle (uniformly)</a></p>
+
+<p><strong>Most popular:</strong></p>
+
+<ul>
+<li><a href=""https://stackoverflow.com/questions/30727515/why-is-executing-java-code-in-comments-allowed/30727799#30727799"">Why is executing Java code in comments with certain Unicode characters allowed?</a></li>
+<li><a href=""https://stackoverflow.com/questions/3758606/how-to-convert-byte-size-into-human-readable-format-in-java/3758880#3758880"">How to convert byte size into human readable format in java?</a> (apparently <a href=""https://sbaltes.github.io/blog/so-snippets-in-gh-projects"" rel=""nofollow noreferrer"">the most copied snippet</a> on Stack Overflow!)</li>
+<li><a href=""https://stackoverflow.com/questions/3976344/handling-interruptedexception-in-java/3976377#3976377"">Handling InterruptedException in Java</a></li>
+</ul>
+
+<p>For a recent bio, check out my web page, <a href=""http://aioo.be"" rel=""nofollow noreferrer"">http://aioo.be</a>.</p>
+
+<p>My StackRating badge:</p>
+
+<p><a href=""https://stackrating.com/user/276052"" rel=""nofollow noreferrer""><img src=""https://stackrating.com/badge/276052"" /></a></p>
+
+<p>Also, check out my new web page: <a href=""http://programming.guide"" rel=""nofollow noreferrer"">Programming.Guide</a></p>
+","25942","6964","547","https://i.stack.imgur.com/UcrhR.jpg?s=128&g=1","","102965"
+"21234","381288","2008-09-23 16:38:35","skaffman","2021-05-07 11:29:06","","Sydney, Australia","","51742","5527","4012","https://i.stack.imgur.com/Drui0.jpg","","11089"
+"55159","380905","2009-01-14 20:03:19","Quassnoi","2021-05-07 21:45:22","https://explainextended.com","Moscow, Russia","","25493","2896","104","","","22397"
+"734069","376475","2011-05-02 07:17:28","Nicol Bolas","2021-05-09 02:08:14","https://nicolbolas.github.io/oldtut/index.html","","<p>I am a game developer with a fairly broad knowledgebase in the fields of animation and graphics, with a touch of AI.</p>
+
+<p>Projects:</p>
+
+<ul>
+<li><a href=""https://nicolbolas.github.io/oldtut/index.html"" rel=""nofollow noreferrer"">A series of tutorials/eBook on graphics programming</a></li>
+<li><a href=""https://nicolbolas.github.io/glsdk/index.html"" rel=""nofollow noreferrer"">The Unofficial OpenGL Software Development Kit</a></li>
+<li><a href=""https://bitbucket.org/alfonse/glloadgen/wiki/Home"" rel=""nofollow noreferrer"">The OpenGL Loader Generator</a>, a much better alternative to GLEW</li>
+</ul>
+","41626","4605","6961","","","380209"
+"263693","373879","2010-02-01 16:46:11","Stephen Cleary","2021-05-09 00:40:00","https://stephencleary.com","Williamsburg, MI","<p>I'm a conservative Christian living in Northern Michigan with my lovely family. I'm a Microsoft MVP and the author of the O'Reilly <a href=""https://stephencleary.com/book"" rel=""nofollow noreferrer"">Concurrency in C# Cookbook</a>.</p>
+
+<p>My day job keeps me in C# most of the time, but I do get to play with React/Redux and other technologies a bit. My side work currently involves a lot of serverless projects on Azure.</p>
+
+<p>I have a <a href=""https://stephencleary.com/"" rel=""nofollow noreferrer"">blog</a> on which I write a lot about <code>async</code> and <code>await</code>, and a few other things.</p>
+
+<p>If my questions have helped you (or your coworkers ;) on a regular basis, please consider <a href=""https://github.com/sponsors/StephenCleary"" rel=""nofollow noreferrer"">supporting my open-source work</a>: <a href=""https://github.com/sponsors/StephenCleary"" rel=""nofollow noreferrer"">https://github.com/sponsors/StephenCleary</a></p>
+","41028","1642","1255","","","97153"
+"138475","373700","2009-07-15 04:41:02","Pascal MARTIN","2021-04-09 19:38:04","https://blog.pascal-martin.fr","Lyon, France","<p>I am a 10+ years of XP DevOps and Web/PHP Developer living and working in Lyon, France.</p>
+
+<p>I am co-author of the book <strong><a href=""https://www.amazon.fr/gp/product/2212677200?ie=UTF8&amp;tag=p42-21&amp;camp=1642&amp;linkCode=xm2&amp;creativeASIN=2212677200"" rel=""nofollow noreferrer""><em>«&nbsp;PHP&nbsp;7 avancé&nbsp;»</em></a></strong> and author of <a href=""https://leanpub.com/developper-une-extension-php?utm_campaign=developper-une-extension-php&amp;utm_medium=web&amp;utm_source=stackoverflow.com/profile"" rel=""nofollow noreferrer""><em>«&nbsp;Développer une Extension PHP&nbsp;5&nbsp;»</em></a> and <a href=""https://leanpub.com/6cloud/"" rel=""nofollow noreferrer""><strong>«&nbsp;Le Plan Copenhague&nbsp;»</strong></a>.</p>
+
+<p><a href=""https://www.amazon.fr/gp/product/2212677200?ie=UTF8&amp;tag=p42-21&amp;camp=1642&amp;linkCode=xm2&amp;creativeASIN=2212677200"" rel=""nofollow noreferrer""><img src=""https://blog.pascal-martin.fr/images/php-7-avance-seconde-edition-couverture-resized.png"" alt=""Cover of the book &#39;PHP 7 avancé&#39;""></a></p>
+
+<p>I occasionally write about Web Development, and mostly about PHP, in French or in English, on <a href=""http://blog.pascal-martin.fr"" rel=""nofollow noreferrer"">my blog</a>.</p>
+
+<p>There is a <a href=""http://careers.stackoverflow.com/pascal-martin"">pretty light version of my CV on Careers</a>, and you can follow me on <a href=""https://twitter.com/pascal_martin"" rel=""nofollow noreferrer"">@pascal_martin</a>.</p>
+","28511","2927","69","","","46833"
+"1271826","370849","2012-03-15 14:45:16","Rob","2021-05-09 04:22:58","http://robertmryan.com","Los Angeles, CA, USA","<p>Entrepreneur and IT Professional</p>
+","28374","7570","1121","https://i.stack.imgur.com/duhm9.jpg?s=128&g=1","","1327250"
+"182668","370612","2009-10-01 18:04:39","Pointy","2021-05-08 22:47:19","http://whatsthepointy.blogspot.com","Austin, TX","<p>Software developer, front-end and various other ends.</p>
+","33937","15410","3200","","","61252"
+"1288","369054","2008-08-14 12:14:17","Bill the Lizard","2021-05-08 22:34:50","http://www.BillTheLizard.blogspot.com","Charlotte, NC","<p><strong>Python</strong>, <strong>Java</strong>, <strong>Android</strong>, etc. developer living in Charlotte, NC.<br/></p>
+
+<p>I am the author of <a href=""https://twitter.com/BountyBot"" rel=""nofollow noreferrer""><strong>@BountyBot</strong></a>, a Twitter bot that posts new and interesting bounty questions from Stack Overflow. You can <a href=""https://github.com/BillCruise/BountyBot"" rel=""nofollow noreferrer"">view the source on GitHub</a>.</p>
+
+<p><strong>My Android apps on Google Play:</strong></p>
+
+<ul>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.threeofakind&amp;hl=en"" rel=""nofollow noreferrer""><strong>Three of a Kind</strong></a> - A fun, fast-paced strategy card game. Match any three symbols to win.</li>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.sketchboard&amp;hl=en"" rel=""nofollow noreferrer""><strong>Sketchboard</strong></a> - Sketch drawings on your mobile device.</li>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.serpent&amp;hl=en"" rel=""nofollow noreferrer""><strong>Serpent</strong></a> - An Android version of the classic mobile game Snake.</li>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.mathblitz&amp;hl=en"" rel=""nofollow noreferrer""><strong>Math Blitz!</strong></a> - A fast-paced flashcard game to help students practice their arithmetic skills.</li>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.linearinterpolator&amp;hl=en"" rel=""nofollow noreferrer""><strong>Linear Interpolator</strong></a> - Fill in the gaps in your data using linear interpolation.</li>
+<li><a href=""https://play.google.com/store/apps/details?id=com.billthelizard.kitchencalculator&amp;hl=en"" rel=""nofollow noreferrer""><strong>Kitchen Calculator</strong></a> - A simple unit converter for common units used in cooking and homebrewing.</li>
+</ul>
+
+<p>If you use any of these apps, please leave me a rating and any feedback for improvement.</p>
+","163736","16810","25723","","","970"
+"114251","365046","2009-05-29 11:35:03","Arun P Johny","2021-05-06 08:39:56","","Cary, NC, USA","<a href=""https://stackoverflow.com/users/114251/arun-p-johny"">
+<img src=""https://stackoverflow.com/users/flair/114251.png?theme=dark"" width=""208"" height=""58"" alt=""profile for Arun P Johny at Stack Overflow, Q&amp;A for professional and enthusiast programmers"" title=""profile for Arun P Johny at Stack Overflow, Q&amp;A for professional and enthusiast programmers"">
+</a>
+<p><a href=""http://www.linkedin.com/in/arunpjohny"" rel=""nofollow noreferrer"">LinkedIn</a></p>
+","68868","3373","152","https://i.stack.imgur.com/sNLiB.jpg?s=128&g=1","","39580"
+"256196","363713","2010-01-21 21:16:54","Bohemian","2021-05-09 02:01:19","","Melbourne, Australia","<p>Self-proclaimed SQL guru, Java pro and regex fan... and currently elected moderator.</p>
+<p>In all code, I strive for brevity (without loss of legibility). The less code there is, the less places there are for bugs to lurk.</p>
+<p>While contributing here, I have learned that <em>say not that you know something until you try to teach it</em>.</p>
+<p>My real name is Glen Edmonds.</p>
+<p>If one of my posts &quot;changed your life&quot;, you can donate to <a href=""https://liberapay.com/Bohemian/donate"" rel=""nofollow noreferrer"">my Liberapay account</a>.</p>
+<p>FYI, that cute animal I use for my avatar is a <a href=""http://en.wikipedia.org/wiki/Wombat"" rel=""nofollow noreferrer"">wombat</a>.</p>
+<a href=""http://www.nerdtests.com/ft_nq.php"" rel=""nofollow noreferrer"">
+<img src=""https://www.nerdtests.com/images/ft/nq/9df5e10593.gif"" alt=""I am nerdier than 100% of all people. Are you a nerd? Click here to take the Nerd Test, get nerdy images and jokes, and talk on the nerd forum!""></a>
+","41646","9605","2570","","","93689"
+"28169","363656","2008-10-15 09:20:48","unwind","2021-05-04 19:24:11","http://unwind.se/","Stockholm, Sweden","<p>Handsomely bearded hacker who likes C, Linux, bash, GTK+, OpenGL, game development, text processing, the occasional assembly (though more commonly on random 8-bit machines than x86), Python and stuff.</p>
+
+<p><strong>Career</strong></p>
+
+<p>I work as a contractor at <a href=""https://afry.com/en/about-us"" rel=""nofollow noreferrer"">AFRY Systems Engineering</a>. I'm currently focusing on embedded &amp; connected devices as a tool and accessory software developer at <a href=""https://www.atlascopco.com/en-uk/itba"" rel=""nofollow noreferrer"">Atlas Copco Industrial Technique</a>. Before that, I helped <a href=""http://www.dice.se/"" rel=""nofollow noreferrer"">EA DICE</a> on big-budget, cross-platform games running on Windows, PlayStation 3, and the Xbox 360.</p>
+
+<p><strong>Personal projects:</strong></p>
+
+<ul>
+<li>I wrote the <a href=""http://obsession.se/gentoo/"" rel=""nofollow noreferrer"">gentoo filemanager</a> which a few people still seem to enjoy using, even after 10+ years.</li>
+<li>If you use Geany, check out <a href=""https://github.com/unwind/gitbrowser"" rel=""nofollow noreferrer"">Gitbrowser</a> and <a href=""https://github.com/unwind/geanyuniq"" rel=""nofollow noreferrer"">Geanyuniq</a>, two handy plug-ins. </li>
+</ul>
+
+<p><code>main(O){10&lt;putchar(4^--O?77-(15&amp;5128&gt;&gt;4*O):10)&amp;&amp;main(2+O);}</code></p>
+","29154","4946","679","","","13903"
+"440558","361938","2010-09-06 10:41:22","Some programmer dude","2021-05-09 05:21:00","https://pileborg.se/","Malmö, Sweden","<p>Abusing programming instead of drugs.</p>
+
+<p>Worked with most of everything from airport systems to temperature sensors.</p>
+
+<p>Recently slipped on a banana-peel and ended up working with a legacy laundromat system.</p>
+
+<p>And I don't do chat.</p>
+","75980","7769","4357","https://i.stack.imgur.com/9ZYta.jpg?s=128&g=1","","196869"
+"3043","361176","2008-08-26 13:24:14","Joel Coehoorn","2021-05-07 20:56:00","http://blogs.msmvps.com/jcoehoorn/","York, NE","<p>
+    2009-2013 Microsoft ASP.Net MVP
+</p>
+
+<p>It's pronounced: koo-horn.<br/> 
+The avatar is both because I play counter strike and a nod to lambda expressions in C#.</p>
+
+<p>Twitter: <a href=""http://twitter.com/jcoehoorn"" rel=""nofollow noreferrer"">@jcoehoorn</a></p>
+","47049","12128","1455","","","2212"

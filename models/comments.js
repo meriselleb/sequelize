@@ -5,7 +5,7 @@ module.exports = (sequelize, type) => {
           primaryKey: true,
           autoIncrement: true
         },
-        text: type.STRING,
+        text: type.TEXT,
         // timestamp
         createdAt: type.DATE
     })

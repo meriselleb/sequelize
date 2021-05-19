@@ -11,6 +11,7 @@ const RankModel = require('./models/rank')
 const availableConnectionsModel = require('./models/availableConnection')
 const ConnectionModel = require('./models/connection')
 const config = require('./config.json')[process.env.NODE_ENV || "development"]
+const NotificationModel = require('./models/notifications')
 
 const sequelize = new Sequelize(config.database, config.username, config.password, {
     ...config,
@@ -24,7 +25,7 @@ const Tag = TagModel(sequelize, Sequelize)
 
 const BadgeTag = sequelize.define('user_bagdes', {})
 const RankTag = sequelize.define('user_ranks', {})
-
+const ConnectionRequests = sequelize.define('connection_requests', {})
 
 const Inbox = InboxModel(sequelize, Sequelize)
 const Vote = VoteModel(sequelize, Sequelize)
@@ -34,6 +35,7 @@ const Thread = ThreadModel(sequelize, Sequelize)
 const availableConnection = availableConnectionsModel(sequelize, Sequelize)
 const Rank = RankModel(sequelize, Sequelize)
 const Connections = ConnectionModel(sequelize, Sequelize)
+const Notifications = NotificationModel(sequelize, Sequelize)
 
 Blog.belongsToMany(Tag, { through: BlogTag, unique: false })
 Tag.belongsToMany(Blog, { through: BlogTag, unique: false })
@@ -44,6 +46,7 @@ Blog.belongsTo(User);
 Vote.belongsTo(Thread);
 Vote.belongsTo(User);
 Thread.hasMany(Vote);
+User.hasMany(Vote);
 
 Rank.belongsToMany(User, { through: RankTag, unique: false })
 User.belongsToMany(Rank, { through: RankTag, unique: false })
@@ -59,8 +62,18 @@ User.hasMany(Thread);
 Badge.belongsToMany(User, { through: BadgeTag, unique: false })
 User.belongsToMany(Badge, { through: BadgeTag, unique: false })
 
+User.belongsToMany(User, { through: Connections, as: 'connectionFrom', foreignKey: 'fromUserId'});
+User.belongsToMany(User, { through: Connections, as: 'connectionTo', foreignKey: 'toUserId'});
+
+User.belongsToMany(User, { through: ConnectionRequests, as: 'requestFrom', foreignKey: 'fromUserId'});
+User.belongsToMany(User, { through: ConnectionRequests, as: 'requestTo', foreignKey: 'toUserId'});
+
+Notifications.belongsTo(User);
+
 // Inbox later
-// Connections Later
+
+
+// Connections
 // Available Connections Later
 
 module.exports = {
@@ -75,4 +88,5 @@ module.exports = {
     Connections,
     availableConnection,
     sequelize,
+    Notifications
 }

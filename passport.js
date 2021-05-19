@@ -1,6 +1,11 @@
+var localStrategy = require('passport-local').Strategy;
+var bCrypt = require('bcrypt-nodejs');
+var JWTStrategy = require('passport-jwt').Strategy;
+var ExtractJWT = require('passport-jwt').ExtractJwt;
+const salt = bCrypt.genSaltSync(8);
+
+
 module.exports = (passport, User) => {
-    var localStrategy = require('passport-local').Strategy
-    var bCrypt = require('bcrypt-nodejs')
 
     passport.serializeUser((user, done) => {
         done(null, user.id);
@@ -13,7 +18,7 @@ module.exports = (passport, User) => {
             }
         }).then(user => {
             if (user) {
-                done(null, user.get());
+                done(null, user);
             }
             else {
                 done(user.errors, null);
@@ -26,7 +31,19 @@ module.exports = (passport, User) => {
         passwordField: 'password',
         passReqToCallback: true,
     }, (req, email, password, done) => {
-        var hash = (password) => bCrypt.hashSync(password, bCrypt.genSaltSync(8), null);
+        if (req.body.password != req.body.confirmPassword) {
+            return done(null, false, {
+                message: "Confirm password failed.",
+            })
+        }
+        
+        if (req.body.password == "" || req.body.email == "") {
+            return done(null, false, {
+                message: "Email and password are required.",
+            })
+        }
+
+        var hash = (password) => bCrypt.hashSync(password, salt, null);
         User.findOne({
             where: {
                 email: email,
@@ -41,15 +58,19 @@ module.exports = (passport, User) => {
                 User.create({
                     email: email,
                     password: pw,
-                    name: req.body.name,
-                    header: req.body.header,
-                    description: req.body.description,
+                    handle: req.body.handle,
                 }).then((newUser, created) => {
                     if (!newUser) {
                         return done(null, false);
                     } else {
+                        req.user = newUser;
                         return done(null, newUser);
                     }
+                }).catch(err => {
+                    console.log(err);
+                    return done(null, false, {
+                        message: err.message,
+                    })
                 })
             }
         })
@@ -77,8 +98,30 @@ module.exports = (passport, User) => {
                     message: "Incorrect password."
                 })
             }
+            
+            req.user = user;
 
-            return done(null, user.get())
+            return done(null, user)
         })
+    }))
+    
+    passport.use('jwt', new JWTStrategy({
+        jwtFromRequest: ExtractJWT.fromAuthHeaderAsBearerToken("authorization"),
+        secretOrKey: 'ekacnoom',
+    }, (payload, done) => {
+        User.findOne({
+            where: {
+                email: payload.email,
+            }
+        })
+            .then(user => {
+                if (user) {
+                    done(null, user);
+                }
+                else {
+                    done(null, false);
+                }
+            })
+            .catch(console.log);
     }))
 }

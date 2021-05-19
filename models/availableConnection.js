@@ -6,4 +6,4 @@ module.exports = function (sequelize, type) {
             allowNull: false
         },
     })
-}
+} // bad
